@@ -1,0 +1,15 @@
+C:\Users\Duke\source\repos\Black Ops Zombies GSC Injector\Black Ops Zombies GSC Injector\bin\Release\Black Ops Zombies GSC Injector.exe.config
+C:\Users\Duke\source\repos\Black Ops Zombies GSC Injector\Black Ops Zombies GSC Injector\bin\Release\Black Ops Zombies GSC Injector.exe
+C:\Users\Duke\source\repos\Black Ops Zombies GSC Injector\Black Ops Zombies GSC Injector\bin\Release\Black Ops Zombies GSC Injector.pdb
+C:\Users\Duke\source\repos\Black Ops Zombies GSC Injector\Black Ops Zombies GSC Injector\bin\Release\Ionic.Zlib.dll
+C:\Users\Duke\source\repos\Black Ops Zombies GSC Injector\Black Ops Zombies GSC Injector\bin\Release\Irony.dll
+C:\Users\Duke\source\repos\Black Ops Zombies GSC Injector\Black Ops Zombies GSC Injector\bin\Release\PS3Lib.dll
+C:\Users\Duke\source\repos\Black Ops Zombies GSC Injector\Black Ops Zombies GSC Injector\bin\Release\Irony.pdb
+C:\Users\Duke\source\repos\Black Ops Zombies GSC Injector\Black Ops Zombies GSC Injector\bin\Release\Irony.xml
+C:\Users\Duke\source\repos\Black Ops Zombies GSC Injector\Black Ops Zombies GSC Injector\obj\Release\Black_Ops_Zombies_GSC_Injector.Properties.Resources.resources
+C:\Users\Duke\source\repos\Black Ops Zombies GSC Injector\Black Ops Zombies GSC Injector\obj\Release\Black Ops Zombies GSC Injector.csproj.GenerateResource.cache
+C:\Users\Duke\source\repos\Black Ops Zombies GSC Injector\Black Ops Zombies GSC Injector\obj\Release\Black Ops Zombies GSC Injector.csproj.CoreCompileInputs.cache
+C:\Users\Duke\source\repos\Black Ops Zombies GSC Injector\Black Ops Zombies GSC Injector\obj\Release\Black Ops Zombies GSC Injector.csproj.CopyComplete
+C:\Users\Duke\source\repos\Black Ops Zombies GSC Injector\Black Ops Zombies GSC Injector\obj\Release\Black Ops Zombies GSC Injector.exe
+C:\Users\Duke\source\repos\Black Ops Zombies GSC Injector\Black Ops Zombies GSC Injector\obj\Release\Black Ops Zombies GSC Injector.pdb
+C:\Users\Duke\source\repos\Black Ops Zombies GSC Injector\Black Ops Zombies GSC Injector\obj\Release\Black Ops Zombies GSC Injector.csprojAssemblyReference.cache
