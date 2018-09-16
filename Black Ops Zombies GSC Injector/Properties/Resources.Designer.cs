@@ -59,15 +59,5 @@ namespace Black_Ops_Zombies_GSC_Injector.Properties {
                 resourceCulture = value;
             }
         }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Byte[].
-        /// </summary>
-        internal static byte[] _cheat {
-            get {
-                object obj = ResourceManager.GetObject("_cheat", resourceCulture);
-                return ((byte[])(obj));
-            }
-        }
     }
 }

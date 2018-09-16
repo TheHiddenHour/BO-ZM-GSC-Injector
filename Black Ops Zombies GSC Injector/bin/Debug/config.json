@@ -1,0 +1,14 @@
+{
+  "HookPath": "resources\\_cheat.gsc",
+  "DefaultInfo": {
+    "HookPointer": 15279928,
+    "HookBuffer": 808881728,
+    "HookLength": 2350,
+    "ProjectPointer": 15280156,
+    "ProjectBuffer": 808954048,
+    "ProjectLength": 64
+  },
+  "CustomInfo": {
+    "HookBuffer": 33554432
+  }
+}

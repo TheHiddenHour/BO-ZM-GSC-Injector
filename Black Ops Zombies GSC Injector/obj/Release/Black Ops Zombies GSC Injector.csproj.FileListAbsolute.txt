@@ -13,3 +13,5 @@ C:\Users\Duke\source\repos\Black Ops Zombies GSC Injector\Black Ops Zombies GSC 
 C:\Users\Duke\source\repos\Black Ops Zombies GSC Injector\Black Ops Zombies GSC Injector\obj\Release\Black Ops Zombies GSC Injector.exe
 C:\Users\Duke\source\repos\Black Ops Zombies GSC Injector\Black Ops Zombies GSC Injector\obj\Release\Black Ops Zombies GSC Injector.pdb
 C:\Users\Duke\source\repos\Black Ops Zombies GSC Injector\Black Ops Zombies GSC Injector\obj\Release\Black Ops Zombies GSC Injector.csprojAssemblyReference.cache
+C:\Users\Duke\source\repos\Black Ops Zombies GSC Injector\Black Ops Zombies GSC Injector\bin\Release\Newtonsoft.Json.dll
+C:\Users\Duke\source\repos\Black Ops Zombies GSC Injector\Black Ops Zombies GSC Injector\bin\Release\Newtonsoft.Json.xml
