@@ -1,0 +1,3129 @@
+//default_xboxlive_sp.cfg
+Length: 1388 bytes
+Pointer Address: 0x00E92204
+Buffer Address: 0x301886C0
+
+//default.cfg
+Length: 369 bytes
+Pointer Address: 0x00E92210
+Buffer Address: 0x30188C40
+
+//reset_bindings_sp.cfg
+Length: 263 bytes
+Pointer Address: 0x00E9221C
+Buffer Address: 0x30188DD0
+
+//reenumeratecontent.cfg
+Length: 3 bytes
+Pointer Address: 0x00E92228
+Buffer Address: 0x30188EF0
+
+//expressions/functions.txt
+Length: 11896 bytes
+Pointer Address: 0x00E92234
+Buffer Address: 0x301915B0
+
+//video/cin_levels.txt
+Length: 664 bytes
+Pointer Address: 0x00E92240
+Buffer Address: 0x30194440
+
+//vision/rebirth.vision
+Length: 3411 bytes
+Pointer Address: 0x00E9224C
+Buffer Address: 0x30217E20
+
+//patch
+Length: 0 bytes
+Pointer Address: 0x00E92258
+Buffer Address: 0x3021DEB0
+
+//savedata/icon0.png
+Length: 34885 bytes
+Pointer Address: 0x00E92264
+Buffer Address: 0x3022E1E0
+
+//cobra_controls1.cfg
+Length: 515 bytes
+Pointer Address: 0x00E92270
+Buffer Address: 0x302377A0
+
+//cobra_controls2.cfg
+Length: 517 bytes
+Pointer Address: 0x00E9227C
+Buffer Address: 0x302379C0
+
+//buttons_default.cfg
+Length: 839 bytes
+Pointer Address: 0x00E92288
+Buffer Address: 0x30237BE0
+
+//buttons_experimental.cfg
+Length: 597 bytes
+Pointer Address: 0x00E92294
+Buffer Address: 0x30237F50
+
+//buttons_lefty.cfg
+Length: 597 bytes
+Pointer Address: 0x00E922A0
+Buffer Address: 0x302381C0
+
+//buttons_nomad.cfg
+Length: 526 bytes
+Pointer Address: 0x00E922AC
+Buffer Address: 0x30238430
+
+//buttons_charlie.cfg
+Length: 1136 bytes
+Pointer Address: 0x00E922B8
+Buffer Address: 0x30238660
+
+//buttons_default_alt.cfg
+Length: 1136 bytes
+Pointer Address: 0x00E922C4
+Buffer Address: 0x30238AF0
+
+//buttons_experimental_alt.cfg
+Length: 1141 bytes
+Pointer Address: 0x00E922D0
+Buffer Address: 0x30238F80
+
+//buttons_lefty_alt.cfg
+Length: 1134 bytes
+Pointer Address: 0x00E922DC
+Buffer Address: 0x30239410
+
+//buttons_nomad_alt.cfg
+Length: 530 bytes
+Pointer Address: 0x00E922E8
+Buffer Address: 0x302398A0
+
+//video/cin_playlist.txt
+Length: 12 bytes
+Pointer Address: 0x00E922F4
+Buffer Address: 0x30239AD0
+
+//animtrees/civilian.atr
+Length: 20 bytes
+Pointer Address: 0x00E92300
+Buffer Address: 0x30295050
+
+//animtrees/dog.atr
+Length: 2016 bytes
+Pointer Address: 0x00E9230C
+Buffer Address: 0x30295080
+
+//animtrees/drones.atr
+Length: 376 bytes
+Pointer Address: 0x00E92318
+Buffer Address: 0x30295880
+
+//animtrees/fakeshooters.atr
+Length: 1904 bytes
+Pointer Address: 0x00E92324
+Buffer Address: 0x30295A20
+
+//animtrees/generic_human.atr
+Length: 216801 bytes
+Pointer Address: 0x00E92330
+Buffer Address: 0x30574020
+
+//animtrees/player.atr
+Length: 9932 bytes
+Pointer Address: 0x00E9233C
+Buffer Address: 0x302C8B30
+
+//animtrees/vehicles.atr
+Length: 7348 bytes
+Pointer Address: 0x00E92348
+Buffer Address: 0x302CB220
+
+//animtrees/animated_props.atr
+Length: 8029 bytes
+Pointer Address: 0x00E92354
+Buffer Address: 0x302CCF00
+
+//animtrees/mg42.atr
+Length: 195 bytes
+Pointer Address: 0x00E92360
+Buffer Address: 0x302CEE80
+
+//animtrees/tank.atr
+Length: 236 bytes
+Pointer Address: 0x00E9236C
+Buffer Address: 0x302CEF60
+
+//animtrees/fxanim_props.atr
+Length: 11390 bytes
+Pointer Address: 0x00E92378
+Buffer Address: 0x302CF070
+
+//clientscripts/_airsupport.csc
+Length: 1678 bytes
+Pointer Address: 0x00E92384
+Buffer Address: 0x302D1D10
+
+//clientscripts/_ambient.csc
+Length: 872 bytes
+Pointer Address: 0x00E92390
+Buffer Address: 0x302D23C0
+
+//clientscripts/_ambientpackage.csc
+Length: 3191 bytes
+Pointer Address: 0x00E9239C
+Buffer Address: 0x302D2750
+
+//clientscripts/_audio.csc
+Length: 2766 bytes
+Pointer Address: 0x00E923A8
+Buffer Address: 0x305B1740
+
+//clientscripts/_busing.csc
+Length: 1145 bytes
+Pointer Address: 0x00E923B4
+Buffer Address: 0x302D3EC0
+
+//clientscripts/_callbacks.csc
+Length: 3038 bytes
+Pointer Address: 0x00E923C0
+Buffer Address: 0x305B2230
+
+//clientscripts/_contextual_melee.csc
+Length: 172 bytes
+Pointer Address: 0x00E923CC
+Buffer Address: 0x302D4F10
+
+//clientscripts/_destructibles.csc
+Length: 445 bytes
+Pointer Address: 0x00E923D8
+Buffer Address: 0x302D4FE0
+
+//clientscripts/_explosive_bolt.csc
+Length: 510 bytes
+Pointer Address: 0x00E923E4
+Buffer Address: 0x302D51C0
+
+//clientscripts/_footsteps.csc
+Length: 920 bytes
+Pointer Address: 0x00E923F0
+Buffer Address: 0x305B5D10
+
+//clientscripts/_flamethrower_plight.csc
+Length: 407 bytes
+Pointer Address: 0x00E923FC
+Buffer Address: 0x302D5770
+
+//clientscripts/_fx.csc
+Length: 2784 bytes
+Pointer Address: 0x00E92408
+Buffer Address: 0x305B2E30
+
+//clientscripts/_global_fx.csc
+Length: 895 bytes
+Pointer Address: 0x00E92414
+Buffer Address: 0x302D6430
+
+//clientscripts/_helicopter_sounds.csc
+Length: 3649 bytes
+Pointer Address: 0x00E92420
+Buffer Address: 0x302D67E0
+
+//clientscripts/_lights.csc
+Length: 5363 bytes
+Pointer Address: 0x00E9242C
+Buffer Address: 0x302D7640
+
+//clientscripts/_load.csc
+Length: 2076 bytes
+Pointer Address: 0x00E92438
+Buffer Address: 0x305B3ED0
+
+//clientscripts/_meatshield.csc
+Length: 396 bytes
+Pointer Address: 0x00E92444
+Buffer Address: 0x302D92F0
+
+//clientscripts/_mortar.csc
+Length: 2168 bytes
+Pointer Address: 0x00E92450
+Buffer Address: 0x302D94A0
+
+//clientscripts/_music.csc
+Length: 1526 bytes
+Pointer Address: 0x00E9245C
+Buffer Address: 0x302D9D40
+
+//clientscripts/_napalm.csc
+Length: 1799 bytes
+Pointer Address: 0x00E92468
+Buffer Address: 0x302DA360
+
+//clientscripts/_radiant_live_update.csc
+Length: 237 bytes
+Pointer Address: 0x00E92474
+Buffer Address: 0x302DAA90
+
+//clientscripts/_swimming.csc
+Length: 5005 bytes
+Pointer Address: 0x00E92480
+Buffer Address: 0x302DABA0
+
+//clientscripts/_treadfx.csc
+Length: 676 bytes
+Pointer Address: 0x00E9248C
+Buffer Address: 0x302DBF50
+
+//clientscripts/_utility.csc
+Length: 5591 bytes
+Pointer Address: 0x00E92498
+Buffer Address: 0x305B4710
+
+//clientscripts/_utility_code.csc
+Length: 375 bytes
+Pointer Address: 0x00E924A4
+Buffer Address: 0x302DD7F0
+
+//clientscripts/_vehicle.csc
+Length: 4970 bytes
+Pointer Address: 0x00E924B0
+Buffer Address: 0x302DD990
+
+//clientscripts/_filter.csc
+Length: 1402 bytes
+Pointer Address: 0x00E924BC
+Buffer Address: 0x305B3930
+
+//maps/_serverfaceanim.gsc
+Length: 611 bytes
+Pointer Address: 0x00E924C8
+Buffer Address: 0x302DF290
+
+//clientscripts/_clientfaceanim.csc
+Length: 668 bytes
+Pointer Address: 0x00E924D4
+Buffer Address: 0x305B60D0
+
+//clientscripts/_face_generichuman.csc
+Length: 799 bytes
+Pointer Address: 0x00E924E0
+Buffer Address: 0x302DF7D0
+
+//clientscripts/_face_utility.csc
+Length: 1610 bytes
+Pointer Address: 0x00E924EC
+Buffer Address: 0x305B6390
+
+//mp/playeranim.script
+Length: 85922 bytes
+Pointer Address: 0x00E924F8
+Buffer Address: 0x303436A0
+
+//mp/playeranimtypes.txt
+Length: 197 bytes
+Pointer Address: 0x00E92504
+Buffer Address: 0x30358660
+
+//animtrees/multiplayer.atr
+Length: 24490 bytes
+Pointer Address: 0x00E92510
+Buffer Address: 0x30358740
+
+//mptype/player_t5_zm.gsc
+Length: 161 bytes
+Pointer Address: 0x00E9251C
+Buffer Address: 0x3035E710
+
+//mptype/player_t5_zm_pentagon.gsc
+Length: 174 bytes
+Pointer Address: 0x00E92528
+Buffer Address: 0x3035E7E0
+
+//mptype/player_t5_zm_theater.gsc
+Length: 183 bytes
+Pointer Address: 0x00E92534
+Buffer Address: 0x3035E8B0
+
+//mptype/player_t5_zt.gsc
+Length: 173 bytes
+Pointer Address: 0x00E92540
+Buffer Address: 0x3035E980
+
+//character/c_sprint1_marine_yaw_player.gsc
+Length: 150 bytes
+Pointer Address: 0x00E9254C
+Buffer Address: 0x3035EA60
+
+//character/c_sprint1_marine_scot_player.gsc
+Length: 148 bytes
+Pointer Address: 0x00E92558
+Buffer Address: 0x3035EB30
+
+//character/c_usa_marine_michael_carter_player.gsc
+Length: 124 bytes
+Pointer Address: 0x00E92564
+Buffer Address: 0x3035EC00
+
+//character/c_usa_marine_winston_lewis_player.gsc
+Length: 124 bytes
+Pointer Address: 0x00E92570
+Buffer Address: 0x3035ECB0
+
+//character/c_usa_marine_michael_carter_player_zm.gsc
+Length: 126 bytes
+Pointer Address: 0x00E9257C
+Buffer Address: 0x3035ED70
+
+//character/c_rus_spetsnaz_zt.gsc
+Length: 170 bytes
+Pointer Address: 0x00E92588
+Buffer Address: 0x3035EE10
+
+//character/c_usa_cia_zt.gsc
+Length: 161 bytes
+Pointer Address: 0x00E92594
+Buffer Address: 0x3035EEE0
+
+//character/c_usa_sog_zt.gsc
+Length: 159 bytes
+Pointer Address: 0x00E925A0
+Buffer Address: 0x3035EFA0
+
+//character/c_vtn_nva_zt.gsc
+Length: 122 bytes
+Pointer Address: 0x00E925AC
+Buffer Address: 0x3035F060
+
+//character/c_rus_spetsnaz2_zt.gsc
+Length: 126 bytes
+Pointer Address: 0x00E925B8
+Buffer Address: 0x3035F100
+
+//character/c_usa_cia2_zt.gsc
+Length: 127 bytes
+Pointer Address: 0x00E925C4
+Buffer Address: 0x3035F1A0
+
+//character/c_usa_sog2_zt.gsc
+Length: 127 bytes
+Pointer Address: 0x00E925D0
+Buffer Address: 0x3035F240
+
+//character/c_vtn_nva2_zt.gsc
+Length: 124 bytes
+Pointer Address: 0x00E925DC
+Buffer Address: 0x3035F2E0
+
+//character/c_zom_blue_guy_zt.gsc
+Length: 122 bytes
+Pointer Address: 0x00E925E8
+Buffer Address: 0x3035F380
+
+//character/c_zom_red_guy_zt.gsc
+Length: 121 bytes
+Pointer Address: 0x00E925F4
+Buffer Address: 0x3035F420
+
+//character/c_zom_yellow_guy_zt.gsc
+Length: 124 bytes
+Pointer Address: 0x00E92600
+Buffer Address: 0x3035F4C0
+
+//character/c_ger_richtofen_zt.gsc
+Length: 172 bytes
+Pointer Address: 0x00E9260C
+Buffer Address: 0x3035F560
+
+//character/c_jap_takeo_zt.gsc
+Length: 117 bytes
+Pointer Address: 0x00E92618
+Buffer Address: 0x3035F630
+
+//character/c_rus_nikolai_zt.gsc
+Length: 118 bytes
+Pointer Address: 0x00E92624
+Buffer Address: 0x3035F6D0
+
+//character/c_usa_dempsey_zt.gsc
+Length: 120 bytes
+Pointer Address: 0x00E92630
+Buffer Address: 0x3035F770
+
+//character/c_usa_jfk_zt.gsc
+Length: 122 bytes
+Pointer Address: 0x00E9263C
+Buffer Address: 0x3035F810
+
+//character/c_usa_mcnamara_zt.gsc
+Length: 124 bytes
+Pointer Address: 0x00E92648
+Buffer Address: 0x3035F8B0
+
+//character/c_cub_castro_zt.gsc
+Length: 121 bytes
+Pointer Address: 0x00E92654
+Buffer Address: 0x3035F950
+
+//character/c_usa_nixon_zt.gsc
+Length: 123 bytes
+Pointer Address: 0x00E92660
+Buffer Address: 0x3035F9F0
+
+//common_scripts/utility.gsc
+Length: 5648 bytes
+Pointer Address: 0x00E9266C
+Buffer Address: 0x3035FA90
+
+//maps/_ambientpackage.gsc
+Length: 17 bytes
+Pointer Address: 0x00E92678
+Buffer Address: 0x303610C0
+
+//maps/_anim.gsc
+Length: 8971 bytes
+Pointer Address: 0x00E92684
+Buffer Address: 0x303610F0
+
+//maps/_animatedmodels.gsc
+Length: 1245 bytes
+Pointer Address: 0x00E92690
+Buffer Address: 0x30363420
+
+//maps/_art.gsc
+Length: 862 bytes
+Pointer Address: 0x00E9269C
+Buffer Address: 0x30363910
+
+//maps/_audio.gsc
+Length: 1718 bytes
+Pointer Address: 0x00E926A8
+Buffer Address: 0x30363C80
+
+//maps/_autosave.gsc
+Length: 2028 bytes
+Pointer Address: 0x00E926B4
+Buffer Address: 0x30364350
+
+//maps/_ballistic_knife.gsc
+Length: 1673 bytes
+Pointer Address: 0x00E926C0
+Buffer Address: 0x305B9430
+
+//maps/_banzai.gsc
+Length: 2705 bytes
+Pointer Address: 0x00E926CC
+Buffer Address: 0x303651F0
+
+//maps/_bayonet.gsc
+Length: 224 bytes
+Pointer Address: 0x00E926D8
+Buffer Address: 0x30365CA0
+
+//maps/_bouncing_betties.gsc
+Length: 1057 bytes
+Pointer Address: 0x00E926E4
+Buffer Address: 0x30365DA0
+
+//maps/_bulletcam.gsc
+Length: 2048 bytes
+Pointer Address: 0x00E926F0
+Buffer Address: 0x303661E0
+
+//maps/_busing.gsc
+Length: 160 bytes
+Pointer Address: 0x00E926FC
+Buffer Address: 0x30366A00
+
+//maps/_callbackglobal.gsc
+Length: 5765 bytes
+Pointer Address: 0x00E92708
+Buffer Address: 0x305B9AE0
+
+//maps/_callbacksetup.gsc
+Length: 1281 bytes
+Pointer Address: 0x00E92714
+Buffer Address: 0x30368120
+
+//maps/_camera.gsc
+Length: 157 bytes
+Pointer Address: 0x00E92720
+Buffer Address: 0x30368640
+
+//maps/_camsys.gsc
+Length: 1847 bytes
+Pointer Address: 0x00E9272C
+Buffer Address: 0x303686F0
+
+//maps/_cheat.gsc
+Length: 2350 bytes
+Pointer Address: 0x00E92738
+Buffer Address: 0x30368E40
+
+//maps/_collectibles.gsc
+Length: 1135 bytes
+Pointer Address: 0x00E92744
+Buffer Address: 0x30369790
+
+//maps/_colors.gsc
+Length: 5825 bytes
+Pointer Address: 0x00E92750
+Buffer Address: 0x30369C20
+
+//maps/_constants.gsc
+Length: 341 bytes
+Pointer Address: 0x00E9275C
+Buffer Address: 0x3036B300
+
+//maps/_contextual_melee.gsc
+Length: 4245 bytes
+Pointer Address: 0x00E92768
+Buffer Address: 0x3036B480
+
+//maps/_coop_weaponswap.gsc
+Length: 333 bytes
+Pointer Address: 0x00E92774
+Buffer Address: 0x3036C530
+
+//maps/_cooplogic.gsc
+Length: 1116 bytes
+Pointer Address: 0x00E92780
+Buffer Address: 0x3036C6A0
+
+//maps/_createcam.gsc
+Length: 970 bytes
+Pointer Address: 0x00E9278C
+Buffer Address: 0x3036CB20
+
+//maps/_createdynents.gsc
+Length: 8560 bytes
+Pointer Address: 0x00E92798
+Buffer Address: 0x3036CF10
+
+//maps/_createfx.gsc
+Length: 7895 bytes
+Pointer Address: 0x00E927A4
+Buffer Address: 0x3036F0A0
+
+//maps/_createfxmenu.gsc
+Length: 2791 bytes
+Pointer Address: 0x00E927B0
+Buffer Address: 0x30370F90
+
+//maps/_createmenu.gsc
+Length: 570 bytes
+Pointer Address: 0x00E927BC
+Buffer Address: 0x30371A90
+
+//maps/_createpath.gsc
+Length: 2647 bytes
+Pointer Address: 0x00E927C8
+Buffer Address: 0x30371CE0
+
+//maps/_credits.gsc
+Length: 10090 bytes
+Pointer Address: 0x00E927D4
+Buffer Address: 0x30372750
+
+//maps/_damagefeedback.gsc
+Length: 458 bytes
+Pointer Address: 0x00E927E0
+Buffer Address: 0x30374EE0
+
+//maps/_dds.gsc
+Length: 6285 bytes
+Pointer Address: 0x00E927EC
+Buffer Address: 0x303750C0
+
+//maps/_debug.gsc
+Length: 12264 bytes
+Pointer Address: 0x00E927F8
+Buffer Address: 0x30376960
+
+//maps/_destructible.gsc
+Length: 1386 bytes
+Pointer Address: 0x00E92804
+Buffer Address: 0x30379960
+
+//maps/_detonategrenades.gsc
+Length: 2496 bytes
+Pointer Address: 0x00E92810
+Buffer Address: 0x30379EF0
+
+//maps/_dev.gsc
+Length: 64 bytes
+Pointer Address: 0x00E9281C
+Buffer Address: 0x3037A8C0
+
+//maps/_drone.gsc
+Length: 4574 bytes
+Pointer Address: 0x00E92828
+Buffer Address: 0x3037A920
+
+//maps/_drones.gsc
+Length: 9208 bytes
+Pointer Address: 0x00E92834
+Buffer Address: 0x3037BB10
+
+//maps/_endmission.gsc
+Length: 2365 bytes
+Pointer Address: 0x00E92840
+Buffer Address: 0x3037DF20
+
+//maps/_explosive_bolt.gsc
+Length: 146 bytes
+Pointer Address: 0x00E9284C
+Buffer Address: 0x3037E880
+
+//maps/_flareweapon.gsc
+Length: 948 bytes
+Pointer Address: 0x00E92858
+Buffer Address: 0x3037E930
+
+//maps/_flamethrower_plight.gsc
+Length: 119 bytes
+Pointer Address: 0x00E92864
+Buffer Address: 0x3037ED10
+
+//maps/_flashgrenades.gsc
+Length: 610 bytes
+Pointer Address: 0x00E92870
+Buffer Address: 0x3037EDA0
+
+//maps/_fx.gsc
+Length: 1331 bytes
+Pointer Address: 0x00E9287C
+Buffer Address: 0x3037F010
+
+//maps/_friendlyfire.gsc
+Length: 1666 bytes
+Pointer Address: 0x00E92888
+Buffer Address: 0x3037F560
+
+//maps/_gamemode.gsc
+Length: 126 bytes
+Pointer Address: 0x00E92894
+Buffer Address: 0x3037FC00
+
+//maps/_gib.gsc
+Length: 2523 bytes
+Pointer Address: 0x00E928A0
+Buffer Address: 0x3037FC90
+
+//maps/_gameskill.gsc
+Length: 10612 bytes
+Pointer Address: 0x00E928AC
+Buffer Address: 0x305BB180
+
+//maps/_global_fx.gsc
+Length: 863 bytes
+Pointer Address: 0x00E928B8
+Buffer Address: 0x30382FF0
+
+//maps/_grenade_toss.gsc
+Length: 808 bytes
+Pointer Address: 0x00E928C4
+Buffer Address: 0x30383370
+
+//maps/_hud.gsc
+Length: 171 bytes
+Pointer Address: 0x00E928D0
+Buffer Address: 0x303836B0
+
+//maps/_hud_message.gsc
+Length: 2230 bytes
+Pointer Address: 0x00E928DC
+Buffer Address: 0x305BDB10
+
+//maps/_hud_util.gsc
+Length: 2454 bytes
+Pointer Address: 0x00E928E8
+Buffer Address: 0x30384040
+
+//maps/_hud_weapons.gsc
+Length: 1654 bytes
+Pointer Address: 0x00E928F4
+Buffer Address: 0x303849F0
+
+//maps/_ingamemenus.gsc
+Length: 330 bytes
+Pointer Address: 0x00E92900
+Buffer Address: 0x30385080
+
+//maps/_introscreen.gsc
+Length: 2461 bytes
+Pointer Address: 0x00E9290C
+Buffer Address: 0x303851F0
+
+//maps/_laststand.gsc
+Length: 4160 bytes
+Pointer Address: 0x00E92918
+Buffer Address: 0x305BE3E0
+
+//maps/_lights.gsc
+Length: 1193 bytes
+Pointer Address: 0x00E92924
+Buffer Address: 0x30386B20
+
+//maps/_load_common.gsc
+Length: 9286 bytes
+Pointer Address: 0x00E92930
+Buffer Address: 0x30386FE0
+
+//maps/_loadout.gsc
+Length: 3236 bytes
+Pointer Address: 0x00E9293C
+Buffer Address: 0x305BF440
+
+//maps/_meatshield.gsc
+Length: 4590 bytes
+Pointer Address: 0x00E92948
+Buffer Address: 0x3038A100
+
+//maps/_menus.gsc
+Length: 3781 bytes
+Pointer Address: 0x00E92954
+Buffer Address: 0x3038B300
+
+//maps/_mg_penetration.gsc
+Length: 1525 bytes
+Pointer Address: 0x00E92960
+Buffer Address: 0x3038C1E0
+
+//maps/_mgturret.gsc
+Length: 7318 bytes
+Pointer Address: 0x00E9296C
+Buffer Address: 0x3038C7F0
+
+//maps/_minefields.gsc
+Length: 517 bytes
+Pointer Address: 0x00E92978
+Buffer Address: 0x3038E4A0
+
+//maps/_mortar.gsc
+Length: 3136 bytes
+Pointer Address: 0x00E92984
+Buffer Address: 0x3038E6C0
+
+//maps/_music.gsc
+Length: 164 bytes
+Pointer Address: 0x00E92990
+Buffer Address: 0x3038F320
+
+//maps/_names.gsc
+Length: 1425 bytes
+Pointer Address: 0x00E9299C
+Buffer Address: 0x3038F3E0
+
+//maps/_notetrack.gsc
+Length: 175 bytes
+Pointer Address: 0x00E929A8
+Buffer Address: 0x3038F990
+
+//maps/_patrol.gsc
+Length: 1781 bytes
+Pointer Address: 0x00E929B4
+Buffer Address: 0x3038FA60
+
+//maps/_radiant_live_update.gsc
+Length: 1167 bytes
+Pointer Address: 0x00E929C0
+Buffer Address: 0x30390180
+
+//maps/_rusher.gsc
+Length: 1539 bytes
+Pointer Address: 0x00E929CC
+Buffer Address: 0x30390630
+
+//maps/_scripted.gsc
+Length: 1462 bytes
+Pointer Address: 0x00E929D8
+Buffer Address: 0x30390C50
+
+//maps/_shellshock.gsc
+Length: 953 bytes
+Pointer Address: 0x00E929E4
+Buffer Address: 0x30391220
+
+//maps/_shutter.gsc
+Length: 1311 bytes
+Pointer Address: 0x00E929F0
+Buffer Address: 0x303915F0
+
+//maps/_spawn_manager.gsc
+Length: 4132 bytes
+Pointer Address: 0x00E929FC
+Buffer Address: 0x30391B30
+
+//maps/_spawner.gsc
+Length: 12577 bytes
+Pointer Address: 0x00E92A08
+Buffer Address: 0x30392B70
+
+//maps/_specialops.gsc
+Length: 945 bytes
+Pointer Address: 0x00E92A14
+Buffer Address: 0x30395CB0
+
+//maps/_spiderhole.gsc
+Length: 2174 bytes
+Pointer Address: 0x00E92A20
+Buffer Address: 0x30396080
+
+//maps/_splash_screens.gsc
+Length: 2333 bytes
+Pointer Address: 0x00E92A2C
+Buffer Address: 0x30396920
+
+//maps/_swimming.gsc
+Length: 1658 bytes
+Pointer Address: 0x00E92A38
+Buffer Address: 0x30397260
+
+//maps/_treadfx.gsc
+Length: 676 bytes
+Pointer Address: 0x00E92A44
+Buffer Address: 0x303978F0
+
+//maps/_utility.gsc
+Length: 35292 bytes
+Pointer Address: 0x00E92A50
+Buffer Address: 0x305C0100
+
+//maps/_utility_code.gsc
+Length: 3250 bytes
+Pointer Address: 0x00E92A5C
+Buffer Address: 0x303A05B0
+
+//maps/_vehicle.gsc
+Length: 23255 bytes
+Pointer Address: 0x00E92A68
+Buffer Address: 0x303A1280
+
+//maps/_vehicle_aianim.gsc
+Length: 11262 bytes
+Pointer Address: 0x00E92A74
+Buffer Address: 0x303A6D80
+
+//maps/_vehicle_dials.gsc
+Length: 654 bytes
+Pointer Address: 0x00E92A80
+Buffer Address: 0x303A99A0
+
+//maps/_vehicle_turret_ai.gsc
+Length: 2318 bytes
+Pointer Address: 0x00E92A8C
+Buffer Address: 0x303A9C50
+
+//maps/_vehicle_utility.gsc
+Length: 832 bytes
+Pointer Address: 0x00E92A98
+Buffer Address: 0x303AA580
+
+//maps/_vehicledrive.gsc
+Length: 1545 bytes
+Pointer Address: 0x00E92AA4
+Buffer Address: 0x303AA8E0
+
+//maps/_vehiclenames.gsc
+Length: 950 bytes
+Pointer Address: 0x00E92AB0
+Buffer Address: 0x303AAF10
+
+//maps/_vehicletypes.gsc
+Length: 352 bytes
+Pointer Address: 0x00E92ABC
+Buffer Address: 0x303AB2E0
+
+//maps/_weaponobjects.gsc
+Length: 3399 bytes
+Pointer Address: 0x00E92AC8
+Buffer Address: 0x305C9230
+
+//maps/_weapons.gsc
+Length: 1818 bytes
+Pointer Address: 0x00E92AD4
+Buffer Address: 0x305C8AF0
+
+//maps/_weather.gsc
+Length: 1689 bytes
+Pointer Address: 0x00E92AE0
+Buffer Address: 0x303AC8C0
+
+//maps/_compass.gsc
+Length: 616 bytes
+Pointer Address: 0x00E92AEC
+Buffer Address: 0x303ACF70
+
+//vehicles/misc_camera
+Length: 6940 bytes
+Pointer Address: 0x00E92AF8
+Buffer Address: 0x303AD1F0
+
+//vehicles/defaultvehicle
+Length: 6903 bytes
+Pointer Address: 0x00E92B04
+Buffer Address: 0x303AED30
+
+//vehicles/defaultvehicle_mp
+Length: 6847 bytes
+Pointer Address: 0x00E92B10
+Buffer Address: 0x303B0850
+
+//maps/_apc.gsc
+Length: 257 bytes
+Pointer Address: 0x00E92B1C
+Buffer Address: 0x303B2320
+
+//maps/_boat_nvapbr.gsc
+Length: 371 bytes
+Pointer Address: 0x00E92B28
+Buffer Address: 0x303B2440
+
+//maps/_boat_patrol_nva.gsc
+Length: 396 bytes
+Pointer Address: 0x00E92B34
+Buffer Address: 0x303B25D0
+
+//maps/_boat_pbr.gsc
+Length: 384 bytes
+Pointer Address: 0x00E92B40
+Buffer Address: 0x303B2770
+
+//maps/_btr.gsc
+Length: 327 bytes
+Pointer Address: 0x00E92B4C
+Buffer Address: 0x303B2900
+
+//maps/_chinook.gsc
+Length: 246 bytes
+Pointer Address: 0x00E92B58
+Buffer Address: 0x303B2A60
+
+//maps/_civ_vehicle.gsc
+Length: 200 bytes
+Pointer Address: 0x00E92B64
+Buffer Address: 0x303B2B70
+
+//maps/_cobra.gsc
+Length: 541 bytes
+Pointer Address: 0x00E92B70
+Buffer Address: 0x303B2C50
+
+//maps/_hind.gsc
+Length: 356 bytes
+Pointer Address: 0x00E92B7C
+Buffer Address: 0x303B2E80
+
+//maps/_hind_player.gsc
+Length: 5799 bytes
+Pointer Address: 0x00E92B88
+Buffer Address: 0x303B3000
+
+//maps/_hip.gsc
+Length: 377 bytes
+Pointer Address: 0x00E92B94
+Buffer Address: 0x303B46C0
+
+//maps/_huey.gsc
+Length: 576 bytes
+Pointer Address: 0x00E92BA0
+Buffer Address: 0x303B4850
+
+//maps/_jeep.gsc
+Length: 856 bytes
+Pointer Address: 0x00E92BAC
+Buffer Address: 0x303B4AA0
+
+//maps/_mig17.gsc
+Length: 282 bytes
+Pointer Address: 0x00E92BB8
+Buffer Address: 0x303B4E10
+
+//maps/_motorcycle.gsc
+Length: 2677 bytes
+Pointer Address: 0x00E92BC4
+Buffer Address: 0x303B4F40
+
+//maps/_plane_weapons.gsc
+Length: 2077 bytes
+Pointer Address: 0x00E92BD0
+Buffer Address: 0x303B59D0
+
+//maps/_policecar.gsc
+Length: 430 bytes
+Pointer Address: 0x00E92BDC
+Buffer Address: 0x303B6210
+
+//maps/_rcbomb.gsc
+Length: 134 bytes
+Pointer Address: 0x00E92BE8
+Buffer Address: 0x303B63D0
+
+//maps/_sampan.gsc
+Length: 387 bytes
+Pointer Address: 0x00E92BF4
+Buffer Address: 0x303B6470
+
+//maps/_snowcat.gsc
+Length: 570 bytes
+Pointer Address: 0x00E92C00
+Buffer Address: 0x303B6610
+
+//maps/_t72.gsc
+Length: 192 bytes
+Pointer Address: 0x00E92C0C
+Buffer Address: 0x303B6860
+
+//maps/_tank_zsu23.gsc
+Length: 242 bytes
+Pointer Address: 0x00E92C18
+Buffer Address: 0x303B6940
+
+//maps/_tiara.gsc
+Length: 455 bytes
+Pointer Address: 0x00E92C24
+Buffer Address: 0x303B6A50
+
+//maps/_truck.gsc
+Length: 523 bytes
+Pointer Address: 0x00E92C30
+Buffer Address: 0x303B6C30
+
+//maps/_truck_gaz63.gsc
+Length: 1704 bytes
+Pointer Address: 0x00E92C3C
+Buffer Address: 0x303B6E60
+
+//maps/_truck_gaz66.gsc
+Length: 1208 bytes
+Pointer Address: 0x00E92C48
+Buffer Address: 0x303B7520
+
+//maps/_uaz.gsc
+Length: 568 bytes
+Pointer Address: 0x00E92C54
+Buffer Address: 0x303B79F0
+
+//maps/_zpu_antiair.gsc
+Length: 207 bytes
+Pointer Address: 0x00E92C60
+Buffer Address: 0x303B7C40
+
+//vision/berserker.vision
+Length: 1211 bytes
+Pointer Address: 0x00E92C6C
+Buffer Address: 0x303B7F80
+
+//vision/cheat_bw.vision
+Length: 784 bytes
+Pointer Address: 0x00E92C78
+Buffer Address: 0x303B8460
+
+//vision/cheat_bw_invert.vision
+Length: 790 bytes
+Pointer Address: 0x00E92C84
+Buffer Address: 0x303B8790
+
+//vision/concussion_grenade.vision
+Length: 1543 bytes
+Pointer Address: 0x00E92C90
+Buffer Address: 0x303B8AD0
+
+//vision/death.vision
+Length: 1322 bytes
+Pointer Address: 0x00E92C9C
+Buffer Address: 0x303B90F0
+
+//vision/default.vision
+Length: 2172 bytes
+Pointer Address: 0x00E92CA8
+Buffer Address: 0x303B9640
+
+//vision/default_night.vision
+Length: 790 bytes
+Pointer Address: 0x00E92CB4
+Buffer Address: 0x303B9EE0
+
+//vision/flare.vision
+Length: 1231 bytes
+Pointer Address: 0x00E92CC0
+Buffer Address: 0x303BA210
+
+//vision/flash_grenade.vision
+Length: 1544 bytes
+Pointer Address: 0x00E92CCC
+Buffer Address: 0x303BA700
+
+//vision/laststand.vision
+Length: 1461 bytes
+Pointer Address: 0x00E92CD8
+Buffer Address: 0x303BAD30
+
+//vision/low_health.vision
+Length: 1463 bytes
+Pointer Address: 0x00E92CE4
+Buffer Address: 0x303BB300
+
+//vision/mpintro.vision
+Length: 1421 bytes
+Pointer Address: 0x00E92CF0
+Buffer Address: 0x303BB8D0
+
+//vision/mpoutro.vision
+Length: 1421 bytes
+Pointer Address: 0x00E92CFC
+Buffer Address: 0x303BBE80
+
+//vision/neutral.vision
+Length: 1445 bytes
+Pointer Address: 0x00E92D08
+Buffer Address: 0x303BC430
+
+//vision/zombie_neutral.vision
+Length: 1204 bytes
+Pointer Address: 0x00E92D14
+Buffer Address: 0x303BCA00
+
+//vision/revive.vision
+Length: 1249 bytes
+Pointer Address: 0x00E92D20
+Buffer Address: 0x303BCED0
+
+//vision/mp_nuked.vision
+Length: 3264 bytes
+Pointer Address: 0x00E92D2C
+Buffer Address: 0x303BD3D0
+
+//vision/mp_nuked2.vision
+Length: 1000 bytes
+Pointer Address: 0x00E92D38
+Buffer Address: 0x303BE0B0
+
+//vision/creek_1.vision
+Length: 3264 bytes
+Pointer Address: 0x00E92D44
+Buffer Address: 0x303BE4B0
+
+//vision/creek_1_interior.vision
+Length: 3269 bytes
+Pointer Address: 0x00E92D50
+Buffer Address: 0x303BF190
+
+//vision/creek_1_dark.vision
+Length: 1528 bytes
+Pointer Address: 0x00E92D5C
+Buffer Address: 0x303BFE80
+
+//vision/creek_1_helicopter.vision
+Length: 3264 bytes
+Pointer Address: 0x00E92D68
+Buffer Address: 0x303C04A0
+
+//vision/creek_1_helicopter_start.vision
+Length: 3264 bytes
+Pointer Address: 0x00E92D74
+Buffer Address: 0x303C1190
+
+//vision/creek_1_helicopter_water.vision
+Length: 3976 bytes
+Pointer Address: 0x00E92D80
+Buffer Address: 0x303C1E80
+
+//vision/creek_1_helicopter_water_exit.vision
+Length: 3976 bytes
+Pointer Address: 0x00E92D8C
+Buffer Address: 0x303C2E40
+
+//vision/creek_1_rain.vision
+Length: 3264 bytes
+Pointer Address: 0x00E92D98
+Buffer Address: 0x303C3DF0
+
+//vision/creek_1_ambush_path.vision
+Length: 3189 bytes
+Pointer Address: 0x00E92DA4
+Buffer Address: 0x303C4AE0
+
+//vision/creek_1_village.vision
+Length: 3189 bytes
+Pointer Address: 0x00E92DB0
+Buffer Address: 0x303C5780
+
+//vision/creek_1_tunnel.vision
+Length: 3189 bytes
+Pointer Address: 0x00E92DBC
+Buffer Address: 0x303C6420
+
+//vision/creek_1_tunnel_enter.vision
+Length: 3269 bytes
+Pointer Address: 0x00E92DC8
+Buffer Address: 0x303C70C0
+
+//vision/creek_1_tunnel_off.vision
+Length: 1527 bytes
+Pointer Address: 0x00E92DD4
+Buffer Address: 0x303C7DB0
+
+//vision/creek_1_war_room.vision
+Length: 3264 bytes
+Pointer Address: 0x00E92DE0
+Buffer Address: 0x303C83D0
+
+//vision/creek_1_tunnel_collapse.vision
+Length: 2870 bytes
+Pointer Address: 0x00E92DEC
+Buffer Address: 0x303C90C0
+
+//vision/creek_1_tunnel_cave_light_end.vision
+Length: 2862 bytes
+Pointer Address: 0x00E92DF8
+Buffer Address: 0x303C9C30
+
+//vision/creek_1_tunnel_cliffhanger.vision
+Length: 3699 bytes
+Pointer Address: 0x00E92E04
+Buffer Address: 0x303CA790
+
+//vision/creek_1b.vision
+Length: 788 bytes
+Pointer Address: 0x00E92E10
+Buffer Address: 0x303CB620
+
+//vision/creek_drown.vision
+Length: 1227 bytes
+Pointer Address: 0x00E92E1C
+Buffer Address: 0x303CB950
+
+//vision/drown.vision
+Length: 1237 bytes
+Pointer Address: 0x00E92E28
+Buffer Address: 0x303CBE30
+
+//vision/flashpoint.vision
+Length: 3269 bytes
+Pointer Address: 0x00E92E34
+Buffer Address: 0x303CC320
+
+//vision/huey_city.vision
+Length: 844 bytes
+Pointer Address: 0x00E92E40
+Buffer Address: 0x303CD000
+
+//vision/in_country.vision
+Length: 794 bytes
+Pointer Address: 0x00E92E4C
+Buffer Address: 0x303CD370
+
+//vision/infrared.vision
+Length: 2147 bytes
+Pointer Address: 0x00E92E58
+Buffer Address: 0x303CD6B0
+
+//vision/infrared_snow.vision
+Length: 3327 bytes
+Pointer Address: 0x00E92E64
+Buffer Address: 0x303CDF30
+
+//vision/int_frontend_char_trans.vision
+Length: 2864 bytes
+Pointer Address: 0x00E92E70
+Buffer Address: 0x303CEC60
+
+//vision/interrogation_escape.vision
+Length: 1200 bytes
+Pointer Address: 0x00E92E7C
+Buffer Address: 0x303CF7C0
+
+//vision/khe_sanh.vision
+Length: 3189 bytes
+Pointer Address: 0x00E92E88
+Buffer Address: 0x303CFC90
+
+//vision/mp_array.vision
+Length: 3269 bytes
+Pointer Address: 0x00E92E94
+Buffer Address: 0x303D0920
+
+//vision/mp_berlinwall.vision
+Length: 1329 bytes
+Pointer Address: 0x00E92EA0
+Buffer Address: 0x303D1610
+
+//vision/mp_cairo.vision
+Length: 3189 bytes
+Pointer Address: 0x00E92EAC
+Buffer Address: 0x303D1B60
+
+//vision/mp_cosmodrome.vision
+Length: 3264 bytes
+Pointer Address: 0x00E92EB8
+Buffer Address: 0x303D2800
+
+//vision/mp_cracked.vision
+Length: 3264 bytes
+Pointer Address: 0x00E92EC4
+Buffer Address: 0x303D34E0
+
+//vision/mp_crisis.vision
+Length: 3269 bytes
+Pointer Address: 0x00E92ED0
+Buffer Address: 0x303D41C0
+
+//vision/mp_discovery.vision
+Length: 1455 bytes
+Pointer Address: 0x00E92EDC
+Buffer Address: 0x303D4EB0
+
+//vision/mp_duga.vision
+Length: 3189 bytes
+Pointer Address: 0x00E92EE8
+Buffer Address: 0x303D5480
+
+//vision/mp_hanoi.vision
+Length: 3189 bytes
+Pointer Address: 0x00E92EF4
+Buffer Address: 0x303D6110
+
+//vision/mp_havoc.vision
+Length: 3264 bytes
+Pointer Address: 0x00E92F00
+Buffer Address: 0x303D6DA0
+
+//vision/mp_mountain.vision
+Length: 3270 bytes
+Pointer Address: 0x00E92F0C
+Buffer Address: 0x303D7A80
+
+//vision/mp_munich.vision
+Length: 900 bytes
+Pointer Address: 0x00E92F18
+Buffer Address: 0x303D8760
+
+//vision/mp_radiation.vision
+Length: 3189 bytes
+Pointer Address: 0x00E92F24
+Buffer Address: 0x303D8B00
+
+//vision/mp_underwater.vision
+Length: 1004 bytes
+Pointer Address: 0x00E92F30
+Buffer Address: 0x303D97A0
+
+//vision/mp_vdm_cosmopoc.vision
+Length: 1023 bytes
+Pointer Address: 0x00E92F3C
+Buffer Address: 0x303D9BB0
+
+//vision/pentagon.vision
+Length: 3189 bytes
+Pointer Address: 0x00E92F48
+Buffer Address: 0x303D9FD0
+
+//vision/pow.vision
+Length: 3677 bytes
+Pointer Address: 0x00E92F54
+Buffer Address: 0x303DAC60
+
+//vision/quagmire_1.vision
+Length: 1378 bytes
+Pointer Address: 0x00E92F60
+Buffer Address: 0x303DBAE0
+
+//vision/quagmire_2.vision
+Length: 1378 bytes
+Pointer Address: 0x00E92F6C
+Buffer Address: 0x303DC060
+
+//vision/quagmire_3.vision
+Length: 1378 bytes
+Pointer Address: 0x00E92F78
+Buffer Address: 0x303DC5E0
+
+//vision/quagmire_4.vision
+Length: 1378 bytes
+Pointer Address: 0x00E92F84
+Buffer Address: 0x303DCB60
+
+//vision/quagmire_default.vision
+Length: 1378 bytes
+Pointer Address: 0x00E92F90
+Buffer Address: 0x303DD0F0
+
+//vision/rebirth.vision
+Length: 3705 bytes
+Pointer Address: 0x00E92F9C
+Buffer Address: 0x303DD670
+
+//vision/underwaterbase.vision
+Length: 786 bytes
+Pointer Address: 0x00E92FA8
+Buffer Address: 0x303DE510
+
+//vision/underwaterbase_swimming.vision
+Length: 1257 bytes
+Pointer Address: 0x00E92FB4
+Buffer Address: 0x303DE850
+
+//vision/wmd.vision
+Length: 3269 bytes
+Pointer Address: 0x00E92FC0
+Buffer Address: 0x303DED50
+
+//vision/wmd_runway.vision
+Length: 3269 bytes
+Pointer Address: 0x00E92FCC
+Buffer Address: 0x303DFA30
+
+//vision/wmd_gforce.vision
+Length: 2864 bytes
+Pointer Address: 0x00E92FD8
+Buffer Address: 0x303E0710
+
+//vision/wmd_sr71.vision
+Length: 2864 bytes
+Pointer Address: 0x00E92FE4
+Buffer Address: 0x303E1260
+
+//vision/wmd_sr71cam.vision
+Length: 3677 bytes
+Pointer Address: 0x00E92FF0
+Buffer Address: 0x303E1DB0
+
+//vision/wmd_pilot.vision
+Length: 2864 bytes
+Pointer Address: 0x00E92FFC
+Buffer Address: 0x303E2C30
+
+//vision/wmd_jumpcut.vision
+Length: 2864 bytes
+Pointer Address: 0x00E93008
+Buffer Address: 0x303E3780
+
+//vision/wmd_takeoff.vision
+Length: 2864 bytes
+Pointer Address: 0x00E93014
+Buffer Address: 0x303E42D0
+
+//vision/zombie_cosmodrome.vision
+Length: 3292 bytes
+Pointer Address: 0x00E93020
+Buffer Address: 0x303E4E30
+
+//vision/zombie_coast.vision
+Length: 1204 bytes
+Pointer Address: 0x00E9302C
+Buffer Address: 0x303E5B30
+
+//vision/zombie_mountain.vision
+Length: 788 bytes
+Pointer Address: 0x00E93038
+Buffer Address: 0x303E6010
+
+//vision/zombie_pentagon.vision
+Length: 3189 bytes
+Pointer Address: 0x00E93044
+Buffer Address: 0x303E6350
+
+//vision/zombie_turned.vision
+Length: 1207 bytes
+Pointer Address: 0x00E93050
+Buffer Address: 0x303E6FF0
+
+//vision/tvguided_sp.vision
+Length: 3189 bytes
+Pointer Address: 0x00E9305C
+Buffer Address: 0x303E74D0
+
+//vision/tvguided_mp.vision
+Length: 3032 bytes
+Pointer Address: 0x00E93068
+Buffer Address: 0x303E8160
+
+//vision/camera_spike_mp.vision
+Length: 2092 bytes
+Pointer Address: 0x00E93074
+Buffer Address: 0x303E8D60
+
+//info/ai_lochit_dmgtable
+Length: 293 bytes
+Pointer Address: 0x00E93080
+Buffer Address: 0x303F65E0
+
+//info/bullet_penetration_sp
+Length: 1345 bytes
+Pointer Address: 0x00E9308C
+Buffer Address: 0x303F6730
+
+//aim_assist/view_input_0.graph
+Length: 249 bytes
+Pointer Address: 0x00E93098
+Buffer Address: 0x303F6C90
+
+//aim_assist/view_input_1.graph
+Length: 219 bytes
+Pointer Address: 0x00E930A4
+Buffer Address: 0x303F6DB0
+
+//aim_assist/view_input_2.graph
+Length: 204 bytes
+Pointer Address: 0x00E930B0
+Buffer Address: 0x303F6EB0
+
+//aim_assist/view_input_3.graph
+Length: 128 bytes
+Pointer Address: 0x00E930BC
+Buffer Address: 0x303F6FA0
+
+//video/cin_levels.txt
+Length: 581 bytes
+Pointer Address: 0x00E930C8
+Buffer Address: 0x303F7040
+
+//buttons_zombietron.cfg
+Length: 731 bytes
+Pointer Address: 0x00E930D4
+Buffer Address: 0x303F72A0
+
+//shock/death.shock
+Length: 1039 bytes
+Pointer Address: 0x00E930E0
+Buffer Address: 0x30404650
+
+//shock/explosion.shock
+Length: 1054 bytes
+Pointer Address: 0x00E930EC
+Buffer Address: 0x30404A80
+
+//shock/tank_mantle.shock
+Length: 1031 bytes
+Pointer Address: 0x00E930F8
+Buffer Address: 0x30404EC0
+
+//shock/level_end.shock
+Length: 1027 bytes
+Pointer Address: 0x00E93104
+Buffer Address: 0x304052E0
+
+//rumble/damage_heavy
+Length: 125 bytes
+Pointer Address: 0x00E93110
+Buffer Address: 0x30405760
+
+//rumble/damage_light
+Length: 125 bytes
+Pointer Address: 0x00E9311C
+Buffer Address: 0x30405800
+
+//rumble/defaultweapon_fire
+Length: 137 bytes
+Pointer Address: 0x00E93128
+Buffer Address: 0x304058A0
+
+//rumble/defaultweapon_melee
+Length: 139 bytes
+Pointer Address: 0x00E93134
+Buffer Address: 0x30405950
+
+//rumble/flamethrower_h.rmb
+Length: 52 bytes
+Pointer Address: 0x00E93140
+Buffer Address: 0x30405A00
+
+//rumble/flamethrower_l.rmb
+Length: 52 bytes
+Pointer Address: 0x00E9314C
+Buffer Address: 0x30405A50
+
+//rumble/damage_heavy_h.rmb
+Length: 67 bytes
+Pointer Address: 0x00E93158
+Buffer Address: 0x30405AA0
+
+//rumble/damage_heavy_l.rmb
+Length: 82 bytes
+Pointer Address: 0x00E93164
+Buffer Address: 0x30405B00
+
+//rumble/damage_light_h.rmb
+Length: 67 bytes
+Pointer Address: 0x00E93170
+Buffer Address: 0x30405B70
+
+//rumble/damage_light_l.rmb
+Length: 82 bytes
+Pointer Address: 0x00E9317C
+Buffer Address: 0x30405BD0
+
+//rumble/defaultweapon_fire_h.rmb
+Length: 127 bytes
+Pointer Address: 0x00E93188
+Buffer Address: 0x30405C50
+
+//rumble/defaultweapon_fire_l.rmb
+Length: 82 bytes
+Pointer Address: 0x00E93194
+Buffer Address: 0x30405CF0
+
+//rumble/defaultweapon_melee_h.rmb
+Length: 97 bytes
+Pointer Address: 0x00E931A0
+Buffer Address: 0x30405D70
+
+//rumble/defaultweapon_melee_l.rmb
+Length: 82 bytes
+Pointer Address: 0x00E931AC
+Buffer Address: 0x30405E00
+
+//rumble/explosion_generic
+Length: 136 bytes
+Pointer Address: 0x00E931B8
+Buffer Address: 0x30405E70
+
+//rumble/explosion_generic_l.rmb
+Length: 97 bytes
+Pointer Address: 0x00E931C4
+Buffer Address: 0x30405F20
+
+//rumble/explosion_generic_h.rmb
+Length: 82 bytes
+Pointer Address: 0x00E931D0
+Buffer Address: 0x30405FB0
+
+//rumble/tank_rumble
+Length: 123 bytes
+Pointer Address: 0x00E931DC
+Buffer Address: 0x30406020
+
+//rumble/tank_rumble_h.rmb
+Length: 52 bytes
+Pointer Address: 0x00E931E8
+Buffer Address: 0x304060C0
+
+//rumble/tank_rumble_l.rmb
+Length: 52 bytes
+Pointer Address: 0x00E931F4
+Buffer Address: 0x30406110
+
+//rumble/artillery_rumble
+Length: 133 bytes
+Pointer Address: 0x00E93200
+Buffer Address: 0x30406160
+
+//rumble/artillery_rumble_h.rmb
+Length: 67 bytes
+Pointer Address: 0x00E9320C
+Buffer Address: 0x30406210
+
+//rumble/artillery_rumble_l.rmb
+Length: 82 bytes
+Pointer Address: 0x00E93218
+Buffer Address: 0x30406280
+
+//rumble/grenade_rumble
+Length: 129 bytes
+Pointer Address: 0x00E93224
+Buffer Address: 0x304062F0
+
+//rumble/grenade_rumble_h.rmb
+Length: 67 bytes
+Pointer Address: 0x00E93230
+Buffer Address: 0x30406390
+
+//rumble/grenade_rumble_l.rmb
+Length: 82 bytes
+Pointer Address: 0x00E9323C
+Buffer Address: 0x304063F0
+
+//rumble/barrel_explosion
+Length: 135 bytes
+Pointer Address: 0x00E93248
+Buffer Address: 0x30406460
+
+//rumble/barrel_explosion_h.rmb
+Length: 82 bytes
+Pointer Address: 0x00E93254
+Buffer Address: 0x30406510
+
+//rumble/barrel_explosion_l.rmb
+Length: 97 bytes
+Pointer Address: 0x00E93260
+Buffer Address: 0x30406590
+
+//rumble/tank_fire
+Length: 127 bytes
+Pointer Address: 0x00E9326C
+Buffer Address: 0x30406610
+
+//rumble/tank_fire_sp_h.rmb
+Length: 127 bytes
+Pointer Address: 0x00E93278
+Buffer Address: 0x304066B0
+
+//rumble/tank_fire_sp_l.rmb
+Length: 82 bytes
+Pointer Address: 0x00E93284
+Buffer Address: 0x30406750
+
+//rumble/melee_garrote
+Length: 125 bytes
+Pointer Address: 0x00E93290
+Buffer Address: 0x304067C0
+
+//rumble/melee_garrote_h.rmb
+Length: 231 bytes
+Pointer Address: 0x00E9329C
+Buffer Address: 0x30406860
+
+//rumble/melee_garrote_l.rmb
+Length: 95 bytes
+Pointer Address: 0x00E932A8
+Buffer Address: 0x30406970
+
+//rumble/reload_small
+Length: 125 bytes
+Pointer Address: 0x00E932B4
+Buffer Address: 0x304069F0
+
+//rumble/reload_small_h.rmb
+Length: 67 bytes
+Pointer Address: 0x00E932C0
+Buffer Address: 0x30406A90
+
+//rumble/reload_small_l.rmb
+Length: 82 bytes
+Pointer Address: 0x00E932CC
+Buffer Address: 0x30406AF0
+
+//rumble/reload_medium
+Length: 127 bytes
+Pointer Address: 0x00E932D8
+Buffer Address: 0x30406B60
+
+//rumble/reload_medium_h.rmb
+Length: 67 bytes
+Pointer Address: 0x00E932E4
+Buffer Address: 0x30406C00
+
+//rumble/reload_medium_l.rmb
+Length: 82 bytes
+Pointer Address: 0x00E932F0
+Buffer Address: 0x30406C60
+
+//rumble/reload_large
+Length: 125 bytes
+Pointer Address: 0x00E932FC
+Buffer Address: 0x30406CD0
+
+//rumble/reload_large_h.rmb
+Length: 67 bytes
+Pointer Address: 0x00E93308
+Buffer Address: 0x30406D70
+
+//rumble/reload_large_l.rmb
+Length: 82 bytes
+Pointer Address: 0x00E93314
+Buffer Address: 0x30406DD0
+
+//rumble/reload_clipin
+Length: 125 bytes
+Pointer Address: 0x00E93320
+Buffer Address: 0x30406E40
+
+//rumble/reload_clipout
+Length: 125 bytes
+Pointer Address: 0x00E9332C
+Buffer Address: 0x30406EE0
+
+//rumble/reload_rechamber
+Length: 125 bytes
+Pointer Address: 0x00E93338
+Buffer Address: 0x30406F80
+
+//rumble/pullout_small
+Length: 126 bytes
+Pointer Address: 0x00E93344
+Buffer Address: 0x30407020
+
+//rumble/dtp_rumble
+Length: 131 bytes
+Pointer Address: 0x00E93350
+Buffer Address: 0x304070C0
+
+//rumble/slide_rumble
+Length: 133 bytes
+Pointer Address: 0x00E9335C
+Buffer Address: 0x30407160
+
+//shock/default.shock
+Length: 1106 bytes
+Pointer Address: 0x00E93368
+Buffer Address: 0x30407200
+
+//shock/hold_breath.shock
+Length: 1041 bytes
+Pointer Address: 0x00E93374
+Buffer Address: 0x30407670
+
+//shock/pain.shock
+Length: 1106 bytes
+Pointer Address: 0x00E93380
+Buffer Address: 0x30407AA0
+
+//shock/victoryscreen.shock
+Length: 1109 bytes
+Pointer Address: 0x00E9338C
+Buffer Address: 0x30407F10
+
+//shock/flashbang.shock
+Length: 1069 bytes
+Pointer Address: 0x00E93398
+Buffer Address: 0x30408380
+
+//shock/dog_bite.shock
+Length: 1108 bytes
+Pointer Address: 0x00E933A4
+Buffer Address: 0x304087D0
+
+//shock/chaplincheat.shock
+Length: 1048 bytes
+Pointer Address: 0x00E933B0
+Buffer Address: 0x30408C40
+
+//radiant/keys.txt
+Length: 30701 bytes
+Pointer Address: 0x00E933BC
+Buffer Address: 0x30625B90
+
+//radiant/clientkeys.txt
+Length: 27633 bytes
+Pointer Address: 0x00E933C8
+Buffer Address: 0x30410730
+
+//codescripts/character.gsc
+Length: 988 bytes
+Pointer Address: 0x00E933D4
+Buffer Address: 0x30417340
+
+//codescripts/delete.gsc
+Length: 82 bytes
+Pointer Address: 0x00E933E0
+Buffer Address: 0x30417740
+
+//codescripts/struct.gsc
+Length: 185 bytes
+Pointer Address: 0x00E933EC
+Buffer Address: 0x304177B0
+
+//language.cfg
+Length: 0 bytes
+Pointer Address: 0x00E933F8
+Buffer Address: 0x30417880
+
+//thumbstick_default.cfg
+Length: 206 bytes
+Pointer Address: 0x00E93404
+Buffer Address: 0x304178A0
+
+//viewsensitivity_med.cfg
+Length: 27 bytes
+Pointer Address: 0x00E93410
+Buffer Address: 0x30417990
+
+//default.cfg
+Length: 369 bytes
+Pointer Address: 0x00E9341C
+Buffer Address: 0x304179C0
+
+//default_platform.cfg
+Length: 16 bytes
+Pointer Address: 0x00E93428
+Buffer Address: 0x30417B50
+
+//default_statversion_sp.cfg
+Length: 21 bytes
+Pointer Address: 0x00E93434
+Buffer Address: 0x30417B80
+
+//coop_arcademode.cfg
+Length: 2395 bytes
+Pointer Address: 0x00E93440
+Buffer Address: 0x30417BB0
+
+//thumbstick_southpaw.cfg
+Length: 207 bytes
+Pointer Address: 0x00E9344C
+Buffer Address: 0x30418530
+
+//thumbstick_legacy.cfg
+Length: 205 bytes
+Pointer Address: 0x00E93458
+Buffer Address: 0x30418620
+
+//thumbstick_legacysouthpaw.cfg
+Length: 213 bytes
+Pointer Address: 0x00E93464
+Buffer Address: 0x30418710
+
+//viewsensitivity_low.cfg
+Length: 29 bytes
+Pointer Address: 0x00E93470
+Buffer Address: 0x30418800
+
+//viewsensitivity_high.cfg
+Length: 29 bytes
+Pointer Address: 0x00E9347C
+Buffer Address: 0x30418840
+
+//viewsensitivity_ultra.cfg
+Length: 27 bytes
+Pointer Address: 0x00E93488
+Buffer Address: 0x30418880
+
+//default_splitscreen.cfg
+Length: 1953 bytes
+Pointer Address: 0x00E93494
+Buffer Address: 0x304188C0
+
+//default_systemlink.cfg
+Length: 2180 bytes
+Pointer Address: 0x00E934A0
+Buffer Address: 0x30419080
+
+//default_xboxlive_sp.cfg
+Length: 1211 bytes
+Pointer Address: 0x00E934AC
+Buffer Address: 0x30419920
+
+//default_480p.cfg
+Length: 327 bytes
+Pointer Address: 0x00E934B8
+Buffer Address: 0x30419DF0
+
+//default_720p.cfg
+Length: 329 bytes
+Pointer Address: 0x00E934C4
+Buffer Address: 0x30419F50
+
+//ragdoll.cfg
+Length: 4858 bytes
+Pointer Address: 0x00E934D0
+Buffer Address: 0x3041A0B0
+
+//maps/gametypes/_gametypes.txt
+Length: 8 bytes
+Pointer Address: 0x00E934DC
+Buffer Address: 0x3041B3D0
+
+//maps/gametypes/cmp.txt
+Length: 20 bytes
+Pointer Address: 0x00E934E8
+Buffer Address: 0x3041B3F0
+
+//maps/gametypes/cmp.gsc
+Length: 17 bytes
+Pointer Address: 0x00E934F4
+Buffer Address: 0x3041B420
+
+//maps/gametypes/arc.txt
+Length: 18 bytes
+Pointer Address: 0x00E93500
+Buffer Address: 0x3041B450
+
+//maps/gametypes/bnk.txt
+Length: 26 bytes
+Pointer Address: 0x00E9350C
+Buffer Address: 0x3041B480
+
+//maps/gametypes/zom.txt
+Length: 25 bytes
+Pointer Address: 0x00E93518
+Buffer Address: 0x3041B4C0
+
+//maps/gametypes/sop.txt
+Length: 11 bytes
+Pointer Address: 0x00E93524
+Buffer Address: 0x3041B500
+
+//expressions/functions.txt
+Length: 10868 bytes
+Pointer Address: 0x00E93530
+Buffer Address: 0x3041B530
+
+//level_dependencies.csv
+Length: 144 bytes
+Pointer Address: 0x00E9353C
+Buffer Address: 0x3041DFC0
+
+//code_post_gfx
+Length: 0 bytes
+Pointer Address: 0x00E93548
+Buffer Address: 0x3056D660
+
+//maps/_zombiemode_auto_turret.gsc
+Length: 1467 bytes
+Pointer Address: 0x00E93554
+Buffer Address: 0x30659210
+
+//vision/zombie_death.vision
+Length: 3677 bytes
+Pointer Address: 0x00E93560
+Buffer Address: 0x31AFB3A0
+
+//character/clientscripts/c_zom_moon_tech_zombie_1_2.csc
+Length: 280 bytes
+Pointer Address: 0x00E9356C
+Buffer Address: 0x3302DFE0
+
+//vision/zombie_coast_poweron.vision
+Length: 3269 bytes
+Pointer Address: 0x00E93578
+Buffer Address: 0x353002E0
+
+//maps/_callbackglobal.gsc
+Length: 5692 bytes
+Pointer Address: 0x00E93584
+Buffer Address: 0x30366AC0
+
+//mp/zm_challenges_reset.cfg
+Length: 60 bytes
+Pointer Address: 0x00E93590
+Buffer Address: 0x31D61350
+
+//animscripts/traverse/zombie_jump_down_184.gsc
+Length: 332 bytes
+Pointer Address: 0x00E9359C
+Buffer Address: 0x354276E0
+
+//clientscripts/_face_utility.csc
+Length: 1854 bytes
+Pointer Address: 0x00E935A8
+Buffer Address: 0x302DFB10
+
+//animtrees/zombie_cymbal_monkey.atr
+Length: 13 bytes
+Pointer Address: 0x00E935B4
+Buffer Address: 0x31AF3B10
+
+//clientscripts/_zombiemode_weap_thundergun.csc
+Length: 1193 bytes
+Pointer Address: 0x00E935C0
+Buffer Address: 0x305B8F60
+
+//animscripts/traverse/zombie_jump_down_190.gsc
+Length: 303 bytes
+Pointer Address: 0x00E935D8
+Buffer Address: 0x359D60D0
+
+//maps/zombie_moon_teleporter.gsc
+Length: 3187 bytes
+Pointer Address: 0x00E935E4
+Buffer Address: 0x3540B650
+
+//maps/_zombiemode_spawner.gsc
+Length: 13830 bytes
+Pointer Address: 0x00E935F0
+Buffer Address: 0x30663860
+
+//maps/_zombiemode_weap_black_hole_bomb.gsc
+Length: 5496 bytes
+Pointer Address: 0x00E935FC
+Buffer Address: 0x323DF5A0
+
+//maps/_zombiemode_audio.gsc
+Length: 4706 bytes
+Pointer Address: 0x00E93608
+Buffer Address: 0x306597F0
+
+//clientscripts/_footsteps.csc
+Length: 865 bytes
+Pointer Address: 0x00E93614
+Buffer Address: 0x302D53E0
+
+//clientscripts/_callbacks.csc
+Length: 2948 bytes
+Pointer Address: 0x00E93620
+Buffer Address: 0x302D4360
+
+//animscripts/death.gsc
+Length: 8912 bytes
+Pointer Address: 0x00E9362C
+Buffer Address: 0x35A2C670
+
+//animscripts/traverse/zombie_jump_down_40.gsc
+Length: 267 bytes
+Pointer Address: 0x00E93638
+Buffer Address: 0x305A8F60
+
+//animscripts/traverse/zombie_jump_up_222.gsc
+Length: 317 bytes
+Pointer Address: 0x00E93644
+Buffer Address: 0x305A9950
+
+//clientscripts/zombie_moon_ffotd.csc
+Length: 76 bytes
+Pointer Address: 0x00E93650
+Buffer Address: 0x353FFEE0
+
+//maps/_zombiemode_server_throttle.gsc
+Length: 438 bytes
+Pointer Address: 0x00E9365C
+Buffer Address: 0x30663680
+
+//maps/_zombiemode_weap_cymbal_monkey.gsc
+Length: 1462 bytes
+Pointer Address: 0x00E93668
+Buffer Address: 0x305E7D00
+
+//animscripts/zombie_dog_scripted.gsc
+Length: 412 bytes
+Pointer Address: 0x00E93674
+Buffer Address: 0x312CE390
+
+//maps/zombie_moon_amb.gsc
+Length: 3088 bytes
+Pointer Address: 0x00E93680
+Buffer Address: 0x35406A00
+
+//maps/_utility.gsc
+Length: 35292 bytes
+Pointer Address: 0x00E9368C
+Buffer Address: 0x30397BB0
+
+//maps/_zombiemode_weap_freezegun.gsc
+Length: 2922 bytes
+Pointer Address: 0x00E93698
+Buffer Address: 0x305E88E0
+
+//maps/zombie_moon_ai_quad.gsc
+Length: 725 bytes
+Pointer Address: 0x00E936A4
+Buffer Address: 0x35406710
+
+//vision/zombie_last_stand.vision
+Length: 3799 bytes
+Pointer Address: 0x00E936B0
+Buffer Address: 0x31AFA4A0
+
+//animscripts/zombie_combat.gsc
+Length: 1962 bytes
+Pointer Address: 0x00E936BC
+Buffer Address: 0x30648180
+
+//rumble/heavygun_fire_h.rmb
+Length: 127 bytes
+Pointer Address: 0x00E936E0
+Buffer Address: 0x31144F70
+
+//maps/_zombiemode_weap_thundergun.gsc
+Length: 2287 bytes
+Pointer Address: 0x00E936EC
+Buffer Address: 0x305E9FF0
+
+//character/c_zom_moon_tech_zombie_3_3.gsc
+Length: 448 bytes
+Pointer Address: 0x00E936F8
+Buffer Address: 0x33039AF0
+
+//maps/_zombiemode_weap_quantum_bomb.gsc
+Length: 3853 bytes
+Pointer Address: 0x00E93704
+Buffer Address: 0x35955F60
+
+//maps/_zombiemode_blockers.gsc
+Length: 8612 bytes
+Pointer Address: 0x00E93710
+Buffer Address: 0x3065B120
+
+//clientscripts/_zombiemode_weapons.csc
+Length: 990 bytes
+Pointer Address: 0x00E9371C
+Buffer Address: 0x305B7F90
+
+//character/clientscripts/c_zom_moon_tech_zombie_1.csc
+Length: 280 bytes
+Pointer Address: 0x00E93728
+Buffer Address: 0x32F7D470
+
+//maps/_zombiemode_utility.gsc
+Length: 11448 bytes
+Pointer Address: 0x00E93734
+Buffer Address: 0x305E5010
+
+//maps/_zombiemode_zone_manager.gsc
+Length: 2290 bytes
+Pointer Address: 0x00E93740
+Buffer Address: 0x3066F330
+
+//clientscripts/_zombiemode_ffotd.csc
+Length: 76 bytes
+Pointer Address: 0x00E9374C
+Buffer Address: 0x305B7F10
+
+//clientscripts/_zombiemode_weap_black_hole_bomb.csc
+Length: 1711 bytes
+Pointer Address: 0x00E93758
+Buffer Address: 0x356A48C0
+
+//maps/zombie_moon_gravity.gsc
+Length: 4133 bytes
+Pointer Address: 0x00E93764
+Buffer Address: 0x323E36D0
+
+//aitype/zombie_moon_zombie_militarypolice.gsc
+Length: 293 bytes
+Pointer Address: 0x00E93770
+Buffer Address: 0x3303E890
+
+//animscripts/shared.gsc
+Length: 9501 bytes
+Pointer Address: 0x00E9377C
+Buffer Address: 0x306418A0
+
+//animscripts/squadmanager.gsc
+Length: 3172 bytes
+Pointer Address: 0x00E93788
+Buffer Address: 0x30643DE0
+
+//clientscripts/_zombiemode_equipment.csc
+Length: 194 bytes
+Pointer Address: 0x00E93794
+Buffer Address: 0x305B7E20
+
+//maps/_zombiemode_ai_dogs.gsc
+Length: 4424 bytes
+Pointer Address: 0x00E937A0
+Buffer Address: 0x312CF370
+
+//maps/_hud_message.gsc
+Length: 2214 bytes
+Pointer Address: 0x00E937AC
+Buffer Address: 0x30383780
+
+//animtrees/mp_vehicles.atr
+Length: 103 bytes
+Pointer Address: 0x00E937C4
+Buffer Address: 0x31A94250
+
+//maps/zombie_moon_sq_ctt.gsc
+Length: 2378 bytes
+Pointer Address: 0x00E937D0
+Buffer Address: 0x352FC100
+
+//animscripts/zombie_dog_combat.gsc
+Length: 1890 bytes
+Pointer Address: 0x00E937DC
+Buffer Address: 0x312CC9E0
+
+//maps/zombie_moon_digger.gsc
+Length: 6315 bytes
+Pointer Address: 0x00E937E8
+Buffer Address: 0x323E1B70
+
+//maps/zombie_moon_digger.gsc
+Length: 6172 bytes
+Pointer Address: 0x00E937F4
+Buffer Address: 0x35C3FF90
+
+//animscripts/traverse/zombie_jump_down_184.gsc
+Length: 332 bytes
+Pointer Address: 0x00E93800
+Buffer Address: 0x305A93A0
+
+//clientscripts/_utility.csc
+Length: 5560 bytes
+Pointer Address: 0x00E9380C
+Buffer Address: 0x302DC210
+
+//animscripts/traverse/zombie_jump_down_72.gsc
+Length: 329 bytes
+Pointer Address: 0x00E93818
+Buffer Address: 0x305A90A0
+
+//animscripts/zombie_stop.gsc
+Length: 1054 bytes
+Pointer Address: 0x00E93824
+Buffer Address: 0x3064EEB0
+
+//clientscripts/_zombiemode.csc
+Length: 5098 bytes
+Pointer Address: 0x00E93830
+Buffer Address: 0x305B6A00
+
+//animscripts/traverse/zombie_jump_down_96.gsc
+Length: 309 bytes
+Pointer Address: 0x00E9383C
+Buffer Address: 0x359D5F60
+
+//maps/zombie_moon_utility.gsc
+Length: 4363 bytes
+Pointer Address: 0x00E93848
+Buffer Address: 0x35407630
+
+//maps/_zombiemode_equip_gasmask.gsc
+Length: 1127 bytes
+Pointer Address: 0x00E93854
+Buffer Address: 0x35983980
+
+//clientscripts/_clientfaceanim.csc
+Length: 643 bytes
+Pointer Address: 0x00E93860
+Buffer Address: 0x302DF520
+
+//character/c_zom_moon_tech_zombie_2.gsc
+Length: 448 bytes
+Pointer Address: 0x00E9386C
+Buffer Address: 0x32F7D5B0
+
+//clientscripts/createfx/zombie_moon_fx.csc
+Length: 6187 bytes
+Pointer Address: 0x00E93878
+Buffer Address: 0x35400E00
+
+//maps/_zombiemode_utility.gsc
+Length: 9254 bytes
+Pointer Address: 0x00E93884
+Buffer Address: 0x30667F70
+
+//animscripts/traverse/zombie_jump_up_222.gsc
+Length: 317 bytes
+Pointer Address: 0x00E93890
+Buffer Address: 0x359D6380
+
+//animscripts/traverse/zombie_jump_down_127.gsc
+Length: 331 bytes
+Pointer Address: 0x00E9389C
+Buffer Address: 0x35424530
+
+//maps/_zombiemode_perks.gsc
+Length: 5535 bytes
+Pointer Address: 0x00E938A8
+Buffer Address: 0x3065FC40
+
+//vision/zombie_moonhanger18.vision
+Length: 3241 bytes
+Pointer Address: 0x00E938B4
+Buffer Address: 0x35CEA2D0
+
+//maps/_zombiemode_equip_gasmask.gsc
+Length: 1184 bytes
+Pointer Address: 0x00E938C0
+Buffer Address: 0x323DE6A0
+
+//animscripts/battlechatter_ai.gsc
+Length: 1813 bytes
+Pointer Address: 0x00E938CC
+Buffer Address: 0x3063CF90
+
+//rumble/pistol_fire
+Length: 123 bytes
+Pointer Address: 0x00E938D8
+Buffer Address: 0x30731300
+
+//maps/_zombiemode_weap_tesla.gsc
+Length: 2902 bytes
+Pointer Address: 0x00E938E4
+Buffer Address: 0x305E9470
+
+//maps/_zombiemode_hackables_packapunch.gsc
+Length: 438 bytes
+Pointer Address: 0x00E938F0
+Buffer Address: 0x3540E000
+
+//radiant/keys.txt
+Length: 30364 bytes
+Pointer Address: 0x00E938FC
+Buffer Address: 0x30409070
+
+//animscripts/zombie_death.gsc
+Length: 6221 bytes
+Pointer Address: 0x00E93908
+Buffer Address: 0x305AB1B0
+
+//maps/_zombiemode_traps.gsc
+Length: 4139 bytes
+Pointer Address: 0x00E93914
+Buffer Address: 0x30666E90
+
+//clientscripts/zombie_moon_gravity.csc
+Length: 225 bytes
+Pointer Address: 0x00E93920
+Buffer Address: 0x35400CF0
+
+//clientscripts/zombie_moon.csc
+Length: 4108 bytes
+Pointer Address: 0x00E9392C
+Buffer Address: 0x353FE5A0
+
+//maps/_zombiemode_bowie.gsc
+Length: 1788 bytes
+Pointer Address: 0x00E93938
+Buffer Address: 0x305D80B0
+
+//zombie_moon_patch
+Length: 0 bytes
+Pointer Address: 0x00E93944
+Buffer Address: 0x323E73E0
+
+//maps/_zombiemode_ai_astro.gsc
+Length: 4969 bytes
+Pointer Address: 0x00E9395C
+Buffer Address: 0x323DC0A0
+
+//character/c_usa_dempsey_dlc5.gsc
+Length: 159 bytes
+Pointer Address: 0x00E93968
+Buffer Address: 0x3561C440
+
+//maps/_weaponobjects.gsc
+Length: 3365 bytes
+Pointer Address: 0x00E93974
+Buffer Address: 0x303AB460
+
+//maps/_zombiemode_hackables_perks.gsc
+Length: 687 bytes
+Pointer Address: 0x00E93980
+Buffer Address: 0x3540DD20
+
+//maps/_zombiemode_weap_microwavegun.gsc
+Length: 3169 bytes
+Pointer Address: 0x00E9398C
+Buffer Address: 0x3578DD10
+
+//clientscripts/_zombiemode_deathcard.csc
+Length: 197 bytes
+Pointer Address: 0x00E93998
+Buffer Address: 0x30670710
+
+//animscripts/zombie_scripted.gsc
+Length: 522 bytes
+Pointer Address: 0x00E939A4
+Buffer Address: 0x3064D940
+
+//rumble/assault_fire
+Length: 125 bytes
+Pointer Address: 0x00E939B0
+Buffer Address: 0x308E42F0
+
+//clientscripts/_zombiemode_weap_thundergun.csc
+Length: 1225 bytes
+Pointer Address: 0x00E939BC
+Buffer Address: 0x30671550
+
+//character/c_zom_moon_tech_zombie_1.gsc
+Length: 424 bytes
+Pointer Address: 0x00E939C8
+Buffer Address: 0x32E08F40
+
+//clientscripts/_fx.csc
+Length: 2787 bytes
+Pointer Address: 0x00E939E0
+Buffer Address: 0x302D5920
+
+//xmodelalias/c_zom_moon_heads_alias.gsc
+Length: 85 bytes
+Pointer Address: 0x00E939EC
+Buffer Address: 0x32E45980
+
+//animscripts/zombie_run.gsc
+Length: 1791 bytes
+Pointer Address: 0x00E939F8
+Buffer Address: 0x305B0510
+
+//animscripts/traverse/zombie_shared.gsc
+Length: 2459 bytes
+Pointer Address: 0x00E93A04
+Buffer Address: 0x306477C0
+
+//animscripts/melee.gsc
+Length: 3218 bytes
+Pointer Address: 0x00E93A10
+Buffer Address: 0x35A2E960
+
+//maps/_zombiemode_ai_faller.gsc
+Length: 3863 bytes
+Pointer Address: 0x00E93A1C
+Buffer Address: 0x35402A30
+
+//animscripts/traverse/zombie_wall_crawl_drop.gsc
+Length: 1304 bytes
+Pointer Address: 0x00E93A28
+Buffer Address: 0x305A9AC0
+
+//rumble/heavygun_fire_l.rmb
+Length: 82 bytes
+Pointer Address: 0x00E93A34
+Buffer Address: 0x31145010
+
+//animscripts/traverse/zombie_quad_vent_jump_down.gsc
+Length: 268 bytes
+Pointer Address: 0x00E93A40
+Buffer Address: 0x359D6240
+
+//animscripts/zombie_dog_turn.gsc
+Length: 1259 bytes
+Pointer Address: 0x00E93A4C
+Buffer Address: 0x312CEE60
+
+//rumble/pistol_fire_h.rmb
+Length: 82 bytes
+Pointer Address: 0x00E93A58
+Buffer Address: 0x307313A0
+
+//animscripts/weaponlist.gsc
+Length: 1019 bytes
+Pointer Address: 0x00E93A64
+Buffer Address: 0x30647390
+
+//maps/createfx/zombie_moon_fx.gsc
+Length: 6172 bytes
+Pointer Address: 0x00E93A70
+Buffer Address: 0x35409D50
+
+//animscripts/zombie_dog_stop.gsc
+Length: 2273 bytes
+Pointer Address: 0x00E93A7C
+Buffer Address: 0x312CE550
+
+//animscripts/traverse/zombie_shared.gsc
+Length: 2494 bytes
+Pointer Address: 0x00E93A88
+Buffer Address: 0x305AA000
+
+//mptype/player_t5_zm_moon.gsc
+Length: 185 bytes
+Pointer Address: 0x00E93A94
+Buffer Address: 0x35514730
+
+//maps/_zombiemode_hackables_boards.gsc
+Length: 849 bytes
+Pointer Address: 0x00E93AA0
+Buffer Address: 0x3540E1E0
+
+//animscripts/zombie_dog_move.gsc
+Length: 1449 bytes
+Pointer Address: 0x00E93AAC
+Buffer Address: 0x312CDBD0
+
+//character/clientscripts/c_zom_moon_tech_zombie_2_2.csc
+Length: 278 bytes
+Pointer Address: 0x00E93AC4
+Buffer Address: 0x33039670
+
+//clientscripts/_zombiemode_equip_hacker.csc
+Length: 243 bytes
+Pointer Address: 0x00E93AD0
+Buffer Address: 0x359A3C80
+
+//maps/zombie_moon_distance_tracking.gsc
+Length: 900 bytes
+Pointer Address: 0x00E93ADC
+Buffer Address: 0x3540D780
+
+//character/clientscripts/c_zom_moon_tech_zombie_3_2.csc
+Length: 278 bytes
+Pointer Address: 0x00E93AE8
+Buffer Address: 0x330399B0
+
+//maps/_zombiemode_load.gsc
+Length: 4827 bytes
+Pointer Address: 0x00E93AF4
+Buffer Address: 0x3065E350
+
+//xmodelalias/c_zom_moon_tech_caps3_alias.gsc
+Length: 96 bytes
+Pointer Address: 0x00E93B00
+Buffer Address: 0x3303AD10
+
+//maps/_zombiemode_score.gsc
+Length: 2305 bytes
+Pointer Address: 0x00E93B0C
+Buffer Address: 0x30662D50
+
+//animscripts/battlechatter.gsc
+Length: 6216 bytes
+Pointer Address: 0x00E93B18
+Buffer Address: 0x3063B720
+
+//common_zombie_patch
+Length: 0 bytes
+Pointer Address: 0x00E93B24
+Buffer Address: 0x3062E330
+
+//clientscripts/_zombiemode_weap_freezegun.csc
+Length: 1929 bytes
+Pointer Address: 0x00E93B30
+Buffer Address: 0x305B83A0
+
+//clientscripts/zombie_moon_teleporter.csc
+Length: 931 bytes
+Pointer Address: 0x00E93B48
+Buffer Address: 0x35402660
+
+//maps/zombie_moon_sq_ctvg.gsc
+Length: 3342 bytes
+Pointer Address: 0x00E93B54
+Buffer Address: 0x352FDB50
+
+//maps/_zombiemode_perks.gsc
+Length: 8251 bytes
+Pointer Address: 0x00E93B60
+Buffer Address: 0x305D9AC0
+
+//animscripts/zombie_pain.gsc
+Length: 2845 bytes
+Pointer Address: 0x00E93B6C
+Buffer Address: 0x305AF9D0
+
+//maps/_gameskill.gsc
+Length: 10587 bytes
+Pointer Address: 0x00E93B78
+Buffer Address: 0x30380680
+
+//character/clientscripts/c_zom_moon_zombie_militarypolice.csc
+Length: 289 bytes
+Pointer Address: 0x00E93B84
+Buffer Address: 0x331C0320
+
+//animscripts/face.gsc
+Length: 1642 bytes
+Pointer Address: 0x00E93B90
+Buffer Address: 0x3063F720
+
+//animscripts/zombie_dog_init.gsc
+Length: 1673 bytes
+Pointer Address: 0x00E93B9C
+Buffer Address: 0x312CD520
+
+//rumble/shotgun_fire_l.rmb
+Length: 82 bytes
+Pointer Address: 0x00E93BA8
+Buffer Address: 0x30CD4A70
+
+//vehicles/misc_freefall
+Length: 6865 bytes
+Pointer Address: 0x00E93BC0
+Buffer Address: 0x332EDE60
+
+//animscripts/zombie_death.gsc
+Length: 6207 bytes
+Pointer Address: 0x00E93BCC
+Buffer Address: 0x30648950
+
+//animscripts/traverse/zombie_jump_down_127.gsc
+Length: 331 bytes
+Pointer Address: 0x00E93BD8
+Buffer Address: 0x305A9220
+
+//maps/_zombiemode_powerups.gsc
+Length: 6962 bytes
+Pointer Address: 0x00E93BE4
+Buffer Address: 0x30661200
+
+//maps/_zombiemode_net.gsc
+Length: 554 bytes
+Pointer Address: 0x00E93BF0
+Buffer Address: 0x3065F9F0
+
+//animscripts/zombie_dog_flashed.gsc
+Length: 401 bytes
+Pointer Address: 0x00E93BFC
+Buffer Address: 0x312CD360
+
+//maps/_zombiemode_devgui.gsc
+Length: 78 bytes
+Pointer Address: 0x00E93C08
+Buffer Address: 0x3065E2E0
+
+//rumble/shotgun_fire_h.rmb
+Length: 82 bytes
+Pointer Address: 0x00E93C14
+Buffer Address: 0x30CD4A00
+
+//animscripts/traverse/zombie_jump_down_190.gsc
+Length: 303 bytes
+Pointer Address: 0x00E93C20
+Buffer Address: 0x305A9520
+
+//clientscripts/_zombiemode.csc
+Length: 2703 bytes
+Pointer Address: 0x00E93C2C
+Buffer Address: 0x3066FC50
+
+//aitype/zombie_moon_zombie_technician.gsc
+Length: 398 bytes
+Pointer Address: 0x00E93C38
+Buffer Address: 0x32E08D80
+
+//animscripts/zombie_utility.gsc
+Length: 6199 bytes
+Pointer Address: 0x00E93C44
+Buffer Address: 0x3064F2F0
+
+//animscripts/zombie_init.gsc
+Length: 5822 bytes
+Pointer Address: 0x00E93C50
+Buffer Address: 0x3064A1B0
+
+//maps/_zombiemode_ai_quad.gsc
+Length: 4674 bytes
+Pointer Address: 0x00E93C5C
+Buffer Address: 0x323DD430
+
+//maps/_zombiemode_load.gsc
+Length: 5113 bytes
+Pointer Address: 0x00E93C68
+Buffer Address: 0x305DE3F0
+
+//maps/zombie_moon.gsc
+Length: 9551 bytes
+Pointer Address: 0x00E93C74
+Buffer Address: 0x35403960
+
+//aitype/zombie_dog.gsc
+Length: 350 bytes
+Pointer Address: 0x00E93C80
+Buffer Address: 0x323CFCF0
+
+//maps/zombie_moon_wasteland.gsc
+Length: 4608 bytes
+Pointer Address: 0x00E93C8C
+Buffer Address: 0x3540C550
+
+//clientscripts/_zombiemode_dissolve.csc
+Length: 467 bytes
+Pointer Address: 0x00E93C98
+Buffer Address: 0x30670800
+
+//rumble/smg_fire_l.rmb
+Length: 82 bytes
+Pointer Address: 0x00E93CA4
+Buffer Address: 0x30AE4330
+
+//character/c_zom_moon_tech_zombie_3.gsc
+Length: 448 bytes
+Pointer Address: 0x00E93CB0
+Buffer Address: 0x33027500
+
+//animscripts/traverse/zombie_mantle_over_40.gsc
+Length: 466 bytes
+Pointer Address: 0x00E93CBC
+Buffer Address: 0x359D5A90
+
+//maps/_ballistic_knife.gsc
+Length: 1658 bytes
+Pointer Address: 0x00E93CC8
+Buffer Address: 0x30364B60
+
+//character/c_ger_richtofen_dlc5.gsc
+Length: 159 bytes
+Pointer Address: 0x00E93CD4
+Buffer Address: 0x35514810
+
+//maps/createart/zombie_moon_art.gsc
+Length: 151 bytes
+Pointer Address: 0x00E93CE0
+Buffer Address: 0x3540B590
+
+//animscripts/traverse/zombie_jump_down_222.gsc
+Length: 320 bytes
+Pointer Address: 0x00E93CEC
+Buffer Address: 0x305A9680
+
+//clientscripts/_load.csc
+Length: 1910 bytes
+Pointer Address: 0x00E93CF8
+Buffer Address: 0x302D8B50
+
+//maps/_zombiemode_ai_astro.gsc
+Length: 4965 bytes
+Pointer Address: 0x00E93D04
+Buffer Address: 0x3514F560
+
+//rumble/sniper_fire
+Length: 125 bytes
+Pointer Address: 0x00E93D10
+Buffer Address: 0x31050640
+
+//animscripts/debug.gsc
+Length: 17 bytes
+Pointer Address: 0x00E93D1C
+Buffer Address: 0x3063F6F0
+
+//maps/_zombiemode_weap_cymbal_monkey.gsc
+Length: 1424 bytes
+Pointer Address: 0x00E93D28
+Buffer Address: 0x3066A3C0
+
+//clientscripts/_zombiemode_weap_tesla.csc
+Length: 975 bytes
+Pointer Address: 0x00E93D34
+Buffer Address: 0x305B8B60
+
+//aitype/zombie_moon_quad.gsc
+Length: 292 bytes
+Pointer Address: 0x00E93D40
+Buffer Address: 0x3324F210
+
+//animscripts/traverse/zombie_jump_down_48.gsc
+Length: 304 bytes
+Pointer Address: 0x00E93D4C
+Buffer Address: 0x359ED5E0
+
+//animscripts/zombie_dog_death.gsc
+Length: 493 bytes
+Pointer Address: 0x00E93D58
+Buffer Address: 0x305ACA20
+
+//character/clientscripts/c_zom_moon_tech_zombie_3_3.csc
+Length: 278 bytes
+Pointer Address: 0x00E93D64
+Buffer Address: 0x3303E740
+
+//clientscripts/_zombiemode_weap_freezegun.csc
+Length: 1839 bytes
+Pointer Address: 0x00E93D70
+Buffer Address: 0x30670A10
+
+//rumble/shotgun_fire
+Length: 125 bytes
+Pointer Address: 0x00E93D7C
+Buffer Address: 0x30CD4960
+
+//maps/_zombiemode_ai_quad.gsc
+Length: 4642 bytes
+Pointer Address: 0x00E93D88
+Buffer Address: 0x352F4AD0
+
+//maps/_zombiemode_weapons.gsc
+Length: 9321 bytes
+Pointer Address: 0x00E93D94
+Buffer Address: 0x3066CEA0
+
+//rumble/smg_fire
+Length: 117 bytes
+Pointer Address: 0x00E93DA0
+Buffer Address: 0x30AE4220
+
+//vision/zombie_moonbiodome.vision
+Length: 3678 bytes
+Pointer Address: 0x00E93DAC
+Buffer Address: 0x35CEAFA0
+
+//clientscripts/_zombiemode_weap_tesla.csc
+Length: 939 bytes
+Pointer Address: 0x00E93DB8
+Buffer Address: 0x30671170
+
+//rumble/pistol_fire_l.rmb
+Length: 82 bytes
+Pointer Address: 0x00E93DE8
+Buffer Address: 0x30731410
+
+//vision/zombie_moon_hellearth.vision
+Length: 3189 bytes
+Pointer Address: 0x00E93DF4
+Buffer Address: 0x35300FD0
+
+//maps/zombie_moon_wasteland.gsc
+Length: 4628 bytes
+Pointer Address: 0x00E93E00
+Buffer Address: 0x323E53C0
+
+//maps/_zombiemode_hackables_powerups.gsc
+Length: 617 bytes
+Pointer Address: 0x00E93E0C
+Buffer Address: 0x3540E8B0
+
+//maps/_zombiemode_weap_crossbow.gsc
+Length: 1484 bytes
+Pointer Address: 0x00E93E18
+Buffer Address: 0x305E82E0
+
+//vision/zombie_moon_black_hole.vision
+Length: 3272 bytes
+Pointer Address: 0x00E93E30
+Buffer Address: 0x3536D260
+
+//maps/zombie_moon_box.gsc
+Length: 583 bytes
+Pointer Address: 0x00E93E3C
+Buffer Address: 0x3540C2E0
+
+//clientscripts/zombie_moon_fx.csc
+Length: 3435 bytes
+Pointer Address: 0x00E93E48
+Buffer Address: 0x353FFF50
+
+//character/c_zom_moon_quad.gsc
+Length: 159 bytes
+Pointer Address: 0x00E93E54
+Buffer Address: 0x3324F360
+
+//maps/_zombiemode_score.gsc
+Length: 2400 bytes
+Pointer Address: 0x00E93E6C
+Buffer Address: 0x305DF810
+
+//maps/_zombiemode_equipment.gsc
+Length: 2051 bytes
+Pointer Address: 0x00E93E78
+Buffer Address: 0x305D91A0
+
+//maps/zombie_moon_sq_be.gsc
+Length: 3208 bytes
+Pointer Address: 0x00E93E84
+Buffer Address: 0x352FE880
+
+//maps/_zombiemode_claymore.gsc
+Length: 2363 bytes
+Pointer Address: 0x00E93E90
+Buffer Address: 0x305D87D0
+
+//maps/_zombiemode.gsc
+Length: 27105 bytes
+Pointer Address: 0x00E93EA8
+Buffer Address: 0x305C9F90
+
+//animscripts/traverse/zombie_jump_up_to_climb_coast.gsc
+Length: 325 bytes
+Pointer Address: 0x00E93EB4
+Buffer Address: 0x359F35E0
+
+//maps/_zombiemode_spawner.gsc
+Length: 15860 bytes
+Pointer Address: 0x00E93EC0
+Buffer Address: 0x305E0190
+
+//animscripts/traverse/zombie_jump_down_40.gsc
+Length: 267 bytes
+Pointer Address: 0x00E93ECC
+Buffer Address: 0x359D5E20
+
+//vision/zombie_moontunnels.vision
+Length: 3269 bytes
+Pointer Address: 0x00E93ED8
+Buffer Address: 0x35CEBE20
+
+//maps/_zombiemode_weap_tesla.gsc
+Length: 2856 bytes
+Pointer Address: 0x00E93EE4
+Buffer Address: 0x3066B4D0
+
+//maps/_zombiemode_weapon_box.gsc
+Length: 308 bytes
+Pointer Address: 0x00E93EF0
+Buffer Address: 0x3066CD40
+
+//maps/zombie_moon_jump_pad.gsc
+Length: 3456 bytes
+Pointer Address: 0x00E93F08
+Buffer Address: 0x35CF5930
+
+//character/clientscripts/c_zom_moon_tech_zombie_2.csc
+Length: 278 bytes
+Pointer Address: 0x00E93F14
+Buffer Address: 0x330273C0
+
+//maps/zombie_moon_ffotd.gsc
+Length: 616 bytes
+Pointer Address: 0x00E93F20
+Buffer Address: 0x323E3440
+
+//character/c_rus_nikolai_dlc5.gsc
+Length: 159 bytes
+Pointer Address: 0x00E93F2C
+Buffer Address: 0x355D7720
+
+//maps/zombie_moon_fx.gsc
+Length: 1298 bytes
+Pointer Address: 0x00E93F38
+Buffer Address: 0x35408820
+
+//animscripts/debug.gsc
+Length: 17 bytes
+Pointer Address: 0x00E93F44
+Buffer Address: 0x305A8F20
+
+//maps/zombie_moon_sq_ss.gsc
+Length: 2297 bytes
+Pointer Address: 0x00E93F50
+Buffer Address: 0x352FCA70
+
+//xmodelalias/c_zom_moon_tech_caps2_alias.gsc
+Length: 96 bytes
+Pointer Address: 0x00E93F5C
+Buffer Address: 0x33035C40
+
+//character/c_zom_moon_tech_zombie_3_2.gsc
+Length: 448 bytes
+Pointer Address: 0x00E93F68
+Buffer Address: 0x330397B0
+
+//maps/_zombiemode_zone_manager.gsc
+Length: 2606 bytes
+Pointer Address: 0x00E93F74
+Buffer Address: 0x305ED6C0
+
+//maps/_zombiemode_hackables_wallbuys.gsc
+Length: 451 bytes
+Pointer Address: 0x00E93F80
+Buffer Address: 0x3540DB30
+
+//animscripts/setposemovement.gsc
+Length: 3332 bytes
+Pointer Address: 0x00E93F98
+Buffer Address: 0x30640B80
+
+//maps/zombie_moon_ffotd.gsc
+Length: 163 bytes
+Pointer Address: 0x00E93FB0
+Buffer Address: 0x35408760
+
+//maps/zombie_moon_sq_sc.gsc
+Length: 1944 bytes
+Pointer Address: 0x00E93FBC
+Buffer Address: 0x352FD390
+
+//maps/_zombiemode_hackables_box.gsc
+Length: 1950 bytes
+Pointer Address: 0x00E93FC8
+Buffer Address: 0x3540EB40
+
+//maps/_sticky_grenade.gsc
+Length: 146 bytes
+Pointer Address: 0x00E93FD4
+Buffer Address: 0x3578AF70
+
+//character/clientscripts/c_zom_moon_tech_zombie_3.csc
+Length: 278 bytes
+Pointer Address: 0x00E93FE0
+Buffer Address: 0x33027700
+
+//character/c_zom_moon_tech_zombie_2_2.gsc
+Length: 448 bytes
+Pointer Address: 0x00E93FEC
+Buffer Address: 0x33034A20
+
+//clientscripts/zombie_moon_digger.csc
+Length: 1417 bytes
+Pointer Address: 0x00E93FF8
+Buffer Address: 0x35C417E0
+
+//animscripts/zombie_melee.gsc
+Length: 2877 bytes
+Pointer Address: 0x00E94004
+Buffer Address: 0x3064B890
+
+//maps/_zombiemode_money.gsc
+Length: 890 bytes
+Pointer Address: 0x00E94028
+Buffer Address: 0x3065F650
+
+//animscripts/zombie_run.gsc
+Length: 1782 bytes
+Pointer Address: 0x00E94034
+Buffer Address: 0x3064D220
+
+//animscripts/traverse/zombie_jump_up_to_climb.gsc
+Length: 333 bytes
+Pointer Address: 0x00E94040
+Buffer Address: 0x359D5CA0
