@@ -56,6 +56,7 @@ Any additional project files should not have `#include` lines due to the way tha
 Injecting a project using this program can either be done by executing the exe with a single parameter.
 #### Parameters
 `r OR reset - Resets the game's rawfile table in memory`
+
 `api OR change-api - Changes the current working API between Target Manager API and Control Console API`
 ## How It Works
 This program works by doing the following:
