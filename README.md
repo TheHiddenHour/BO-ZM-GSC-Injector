@@ -55,16 +55,8 @@ Any additional project files should not have `#include` lines due to the way tha
 ### Injecting a Project
 Injecting a project using this program can either be done by executing the exe with a single parameter.
 #### Parameters
-```
-"r"     - Resets the script information in game memory
-"path"  - Path to project directory or single file
-```
-#### Usage Examples
-```
-Reset script info in memory - "program.exe r"
-Inject project directory    - "program.exe C:\Zombies Project"
-Inject project file         - "program.exe C:\Zombies Project\script.gsc"
-```
+`r OR reset - Resets the game's rawfile table in memory`
+`api OR change-api - Changes the current working API between Target Manager API and Control Console API`
 ## How It Works
 This program works by doing the following:
 1. Make a list of files to be injected by scanning input project path
