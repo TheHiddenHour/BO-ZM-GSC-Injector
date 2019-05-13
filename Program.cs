@@ -45,31 +45,31 @@ namespace BO_ZM_GSC_Injector {
              * Parameter parsing
              */
             if(args.Length > 0) {
-                // Change API
-                if(args[0] == "change-api" || args[0] == "api") {
-                    _config.API = (_config.API == 0) ? 1 : 0;
-                    WriteConfig(_config);
-                    Console.WriteLine("Changed active API to " + ((_config.API == 0) ? "TMAPI" : "CCAPI"));
-                    return;
-                }
-                // Reset scripts in memory 
-                else if(args[0] == "reset" || args[0] == "r") {
-                    UpdateRawfileTable(_config.Hook.Pointer, _config.Hook.Default.Buffer, _config.Hook.Default.Length);
-                    UpdateRawfileTable(_config.Injection.Pointer, _config.Injection.Default.Buffer, _config.Injection.Default.Length);
-                }
-                // Inject regularly 
-                else {
-                    _project_dir = args[0];
-                    // Check if project dir exists
-                    if(!Directory.Exists(_project_dir)) {
-                        Console.WriteLine("ERROR: Directory doesn't exist");
+                switch(args[0]) {
+                    default: // Inject project dir 
+                        _project_dir = args[0];
+                        // Check if project dir exists
+                        if(!Directory.Exists(_project_dir)) {
+                            Console.WriteLine("ERROR: Directory doesn't exist");
+                            return;
+                        }
+                        // Check if 'main.gsc' exists in dir 
+                        if(!File.Exists(_project_dir + @"\main.gsc")) {
+                            Console.WriteLine("ERROR: 'main.gsc' does not exist in root of project directory");
+                            return;
+                        }
+                        break;
+                    case "change-api":
+                    case "api":
+                        _config.API = (_config.API == 0) ? 1 : 0;
+                        WriteConfig(_config);
+                        Console.WriteLine("Changed active API to " + ((_config.API == 0) ? "TMAPI" : "CCAPI"));
                         return;
-                    }
-                    // Check if 'main.gsc' exists in dir 
-                    if(!File.Exists(_project_dir + @"\main.gsc")) {
-                        Console.WriteLine("ERROR: 'main.gsc' does not exist in root of project directory");
-                        return;
-                    }
+                    case "reset":
+                    case "r":
+                        UpdateRawfileTable(_config.Hook.Pointer, _config.Hook.Default.Buffer, _config.Hook.Default.Length);
+                        UpdateRawfileTable(_config.Injection.Pointer, _config.Injection.Default.Buffer, _config.Injection.Default.Length);
+                        break;
                 }
             }
             else {
@@ -113,13 +113,11 @@ namespace BO_ZM_GSC_Injector {
                     _project.Insert(0, pop);
                 }
             }
+            foreach(string element in _project) { Console.WriteLine(element.Replace(_project_dir, "")); }
             /*
              * Plaintext buffer creation
              */
-            string ptbuffer = "";
-            foreach(string file in _project) {
-                ptbuffer += File.ReadAllText(file);
-            }
+            string ptbuffer = string.Join("\n", _project.Select(x => File.ReadAllText(x)));
             /*
              * Compression and injection
              */
@@ -161,7 +159,7 @@ namespace BO_ZM_GSC_Injector {
             byte[] buffer = ZlibStream.CompressBuffer(stream.ToArray());
             byte[] len = BitConverter.GetBytes(script.Length + 1).Reverse().ToArray();
             byte[] clen = BitConverter.GetBytes(buffer.Length).Reverse().ToArray();
-            // Write header to stream 
+            // Write header and script to stream 
             stream.SetLength(0); // Reset stream 
             stream.Write(len, 0, len.Length);
             stream.Write(clen, 0, clen.Length);
