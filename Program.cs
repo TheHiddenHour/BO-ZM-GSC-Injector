@@ -79,7 +79,7 @@ namespace BO_ZM_GSC_Injector {
             /*
              * Connect and attach PS3
              */
-            _PS3 = new PS3API(SelectAPI.TargetManager);
+            _PS3 = new PS3API(_config.API == 0 ? SelectAPI.TargetManager : SelectAPI.ControlConsole);
             if(!_PS3.ConnectTarget()) {
                 Console.WriteLine("ERROR: Could not connect to target");
                 return;
